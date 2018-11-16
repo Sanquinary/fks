@@ -1,0 +1,1946 @@
+﻿Etternavn::Fornavn::Sted::Prosjekt::Tiltak::Prosjektnavn ::::Kode
+::Aasland::::::::::::
+Aasland::Rein::152900::711146::100000::The role of histone acetylation in enhancer function::::Aas
+Aasland::Rein::152900::000000::104046::Rein Aasland - annum::::
+::AND::::::::::::
+ANDERSEN ::THORVIN::152900::000000::Utgår::Annumskonto ::::AND
+::TOM::::::::::::
+ANDERSEN ::TOM::152970::461341::100000::Lakes in Transition: a biochemical Modelling Approach - NFR 244558::::LesT
+ANDERSEN ::TOM::152970::000000::103931::Annumskonto Tom Andersen::::TOM
+ANDERSEN ::TOM::152970::000000::103834::Maryia Khomich::::Khomich
+::::::::::::::
+BOESSENKOOL::SANNE::152950::143972::100000::230821/F20 - tracking viking-assisted dispersal of biodiversity using ancient DNA::::VIKINGS - drift
+BOESSENKOOL::SANNE::152950::143972::120333::230821/F20 - tracking viking-assisted dispersal of biodiversity using ancient DNA, samarbeidsavtale Cambridge.::::VIKINGS - avtale
+BOESSENKOOL::SANNE::152950::690456::100000::The Horses and Sheep of the Vikings: Archaegenomics of Domesticates in the North Atlantic. Agr.Univ. og Iceland:::: Island
+::::::::::::::
+BJORBÆKMO::MARIT::152960::000500::103703::Sunniva og Egil Baardseths legat - forekomster av cercozoa i og på tang fra Oslofjorden::::SEB legat Marit
+::BORGÅ::::::::::::
+BORGÅ::KATRINE::152970::000000::103949::Borgå - annum::::
+BORGÅ::KATRINE::152970::144081::100000::243763/E50 Contaminants in Antarctic and Arctic avian wildlife: Climatic and ecological drivers, comparative polar perspective and effects::::POLAR-ECOTOX
+BORGÅ::KATRINE::152970::144081::120333::243763/E50 Contaminants in Antarctic and Arctic avian wildlife: Climatic and ecological drivers, comparative polar perspective and effects::::POLAR-ECOTOX samarbeidsavtaler
+BORGÅ::KATRINE::152970::144081::101000::243763/E50 Contaminants in Antarctic and Arctic avian wildlife: Climatic and ecological drivers, comparative polar perspective and effects, tilskudd fra Klima- og Miljødepartementet::::POLAR-ECOTOX, Tilskudd fra KMD
+BORGÅ::KATRINE::152970::144104::SLUTT::DNA damage in arctic avian predators::::AFG Ane Haarr
+BORGÅ::KATRINE::152970::144248::100000::Transport of marine pollution from bird cliffs to tundra communities in Svalbard, RIS ID 10420. Arctic Field Grant vedr. Silje Kristiansen::::AFG Kristiansen
+BORGÅ::KATRINE::152970::144249::100000::256930/E10 Pollutants in Arctic geese and their eggs. Arctic Field Grant for Daniel Hitchcock::::AFG GeesePOP
+BORGÅ::KATRINE::152970::461247::100000::Causes and consequences of high loads of biomagnifying pollutants in avian top redators in the Arctic - NFR 234423/E40 - Borgå::::AVITOX
+BORGÅ::KATRINE::152970::461252::100000::Effects of changes in discharges, climate and other factors on coastal contaminants and their biological consequences - NFR 234388/E40 (medprosjektleder Ketil Hylland) - Borgå::::COCO
+BORGÅ::KATRINE::152970::461325::100000::Climatic, abiotic and biotic drivers of mercury in freshwater fish in northern ecosystems (CLIMER) - NFR 243644 - NIVA::::CLIMER
+BORGÅ::KATRINE::152970::480081::100000::Miljøgifter i en urban fjord 2016 - oppdrag::::Urban Gulltox
+BORGÅ::KATRINE::152970::212018::100000::PFAS in eggs of Arctic breeding geese::::GeesePoP
+::BRA::::::::::::
+BRAMANTI::BARBARA::152950::650125::100000::ERC - 324249 - The medieval plagues: ecology, transmission modalities and routes of the infections::EU::MedPlag 
+BRAMANTI::BARBARA::152950::650125::900008::MVA - ERC - 324249 - The medieval plagues: ecology, transmission modalities and routes of the infections::EU::MedPlag MVA
+::BRY::::::::::::
+BRYSTING::ANNE KRAG::152950::000500::103723::Brysting - Nansenfond::::BRY-NANSEN
+BRYSTING::ANNE KRAG::152950::000000::103933::Annumskonto Anne Krag Brysting::::BRY
+BRYSTING::ANNE KRAG::152950::144475::100000::262247/F20 The molecular basis of postzygotic hybridization barriers in plants ::::MOLBAR drift
+BRYSTING::ANNE KRAG::152950::144475::120333::262247/F20 The molecular basis of postzygotic hybridization barriers in plants ::::MOLBAR avtale JCVI
+::BRÅ::::::::::::
+BRÅTE::JON::152960::121319::100000 (slutt)::213707/F20 Regulatory RNA and the origin of multicellularity::::MULTICELL - drift
+BRÅTE::JON::152960::121319::108001 (slutt)::213707/F20 Regulatory RNA and the origin of multicellularity::::MULTICELL - Utl.stip. Barcelona
+BRÅTE::JON::152960::144175::100000::240284/F20 Non-coding RNA in the evolution of animals::::AnimalEvo
+::COL::::::::::::
+COLMAN::JONATHAN::152900::200933::100000::Virkninger av UV-lys fra kraftledninger på reinsdyrs arealbruk::::Rein-UV lys
+COLMAN::JONATHAN::152900::421134::SLUTT::Reinsdyrs adferd i forbindelse med Vindkraft - Rákkocearro studieområde - VARANGER KraftVind, Berlevåg::::VIND-REIN Varanger
+COLMAN::JONATHAN::152900::421140::100000::VindRein II Statkraft/Statnett::::VIND-REIN II
+COLMAN::JONATHAN::152900::421140::101000::VindRein II Statkraft/Statnett, delprosjekt VANN::::V-R II VANN
+COLMAN::JONATHAN::152900::421140::123530::VIND-REIN - seminar vedr. bruk av GPS, ekstrabevilgning 2015 Gotaas, midlertidig konto::::VIND-REIN II seminar 2015
+::::::::::::::
+DAVEY::MARIE::152960::144185::100000::239976/F20 - What Lies Within: Evolution and ecological significance of a common conifer edophyte::::iGran
+DAVEY::MARIE::152960::211792::100000::BryoFungi : Mapping and barcoding the diversity of bryophyte-associated fungi in Norway::::BryoFungi
+::::::::::::::
+DIEKERT::Florian::152950::143924::SLUTT::234245/E40 Strategic and dynamic aspects of fisheries management under uncertainty (Utenlandsstipend UCSB Santa Barbara, USA)::::UCSB
+DIEKERT::Florian::152950::651036::100000::678049 ERC NatCOOP - How nature affects cooperation in common pool resource systems::EU::NatCOOP
+::DUR::::::::::::
+DURANT::Joël::152950::000000::103988::Annuum Joël Durant::::DUR
+DURANT::Joël::152950::144468::100000::Natural mortality in fish populations during early life stages - NAMOR workshop::::NAMOR
+DURANT::Joël::152950::461240::100000::Seasonal to decadal Changes Affecting Marine Productivity: an Interdisciplinary investigation (NFR 234205/H30::::SCAMPI
+DURANT::Joël::152950::651015::108001::MARine MAnagement and Ecosystem Dynamics under climate change, EU 675997::EU::MARmaED fellespott
+DURANT::Joël::152950::651015::490001::MARine MAnagement and Ecosystem Dynamics under climate change, EU 675997::EU::MARmaED drift PhD
+DURANT::Joël::152950::190700::100000::CoDINA - Cod: Diet and food web dyNAmics::::CoDINA
+::EDV::::::::::::
+EDVARDSEN::BENTE::152970::190631::100000::Process and Players in Arctic Marine Pelagic Food Webs - Biogeochemistry, Environment and Climate Change::::MICROPOLAR
+EDVARDSEN::BENTE::152970::421229::100000::Change in phytoplankton community structure in the inner Oslofjord during a century of sampling - NFR 262960 Nærings PhD::::Plankton
+EDVARDSEN::BENTE::152970::144478::1000000::268286/E40 TaxMarc_Diversity, taxonomy and distribution of
+microbial::NFR::TaxMarc
+EDVARDSEN::BENTE::152970::000000::103930::Annumskonto Bente Edvardsen::::EDV
+EDVARDSEN::BENTE::152970::000000::103960::Stipendiatstilling: Marit Bjorbækmo::::MARIT
+EDVARDSEN::BENTE::152970::000000::103832::Gran Stadniczenko, Sandra - stipendiatmidler::::GRAN
+::EIKESET::::::::::::
+EIKESET::ANNE MARIA::152950::610334::100000::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - gen.drift
+EIKESET::ANNE MARIA::152950::610334::100370::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - Training/Workshops
+EIKESET::ANNE MARIA::152950::610334::100371::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - Annual conference, SAB
+EIKESET::ANNE MARIA::152950::610334::100372::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - Travel/meetings
+EIKESET::ANNE MARIA::152950::610334::100373::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - Mobility allowance
+EIKESET::ANNE MARIA::152950::610334::100374::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - Bench fee Nederland
+EIKESET::ANNE MARIA::152950::610334::120000::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - lønn postdok/forsker
+EIKESET::ANNE MARIA::152950::610334::120333::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - avtaler (lønn)
+EIKESET::ANNE MARIA::152950::610334::410000::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - lønn PhD
+EIKESET::ANNE MARIA::152950::610334::990000::Green Growth based on Marine Resources: Ecological and Socio-Economic Contraints (GreenMar)::::GreenMar - lønn Adm
+EIKESET::ANNE MARIA::152950::610336::100000::Nordic-Russian Co-operation Programme in Higher Education and Research  - underprosjekt GreenMar 610334::::GM Russia - drift
+EIKESET::ANNE MARIA::152950::610336::100370::Nordic-Russian Co-operation Programme in Higher Education and Research  - underprosjekt GreenMar 610334::::GM Russia Summerschool
+EIKESET::ANNE MARIA::152950::610336::120000::Nordic-Russian Co-operation Programme in Higher Education and Research  - underprosjekt GreenMar 610334::::GM Russia - lønn postdok/forsker
+EIKESET::ANNE MARIA::152950::610336::120333::Nordic-Russian Co-operation Programme in Higher Education and Research  - underprosjekt GreenMar 610334::::GM Russia videreføring gen.
+EIKESET::ANNE MARIA::152950::610336::990000::Nordic-Russian Co-operation Programme in Higher Education and Research  - underprosjekt GreenMar 610334::::GM Russia lønn administrasjon
+EIKESET::ANNE MARIA::152950::610349::100000::A multimisciplinary approach to anticipate regime shifts in ecosystems (Nordic-Russian Co-operation Programme in Higher Education - jfr. GreenMAR)::::TerMARisk
+::::::::::::::
+::EIK::::::::::::
+EIKREM::WENCHE::152950::000000::103951::Annum - Wenche Eikrem::::EIK
+::ERG::::::::::::
+ERGON::TORBJØRN HÅKAN::152950::650066::SLUTT::262693 - INTERACT - International Network for Terrestrial Research and Monitoring in the Arctic - WP4::EU::WP4 EU INTERACT
+ERGON::TORBJØRN HÅKAN::152952::651051::100003::730938 - INTERACT H2020 - International Network for Terrestrial Research and Monitoring in the Arctic - WP3::::INTERACT II - WP3
+ERGON::TORBJØRN HÅKAN::152952::651051::100005::730938 - INTERACT H2020 - International Network for Terrestrial Research and Monitoring in the Arctic - WP5::::INTERACT II - WP5
+ERGON::TORBJØRN HÅKAN::152950::000000::103938::Annumskonto Torbjørn Håkan Ergon::::ERGON
+ERGON::TORBJØRN HÅKAN::152950::000500::150104::Startpakke - Ergon::::START-ERGON
+ERGON::TORBJØRN HÅKAN::152950::000000::103814::Drift - ARESKOUG VERONIKA::::VERONIKA
+::ERI::::::::::::
+ERIKSEN::AUD BERGLEN::152960::650113::SLUTT, Venter på oppgjør::EU 315404 WeevilSTOP - Development of a cost-effective and sustainable insecticide-free plant protection method, eliminating widespread catastrophic damage in the forestry caused by the pine weevil Hylobius abietis::EU::WeevilSTOP, WP 1
+ERIKSEN::AUD BERGLEN::152970::000000::103944::Annumskonto Aud Berglen Eriksen::::ERI
+ERIKSEN::AUD BERGLEN::152970::000500::103714::ERI - EU midl. konto::::ERI-EU
+::FRE::::::::::::
+FREDRIKSEN::STEIN::152970::000000::103901::Annum Stein Fredriksen::::FRE
+FREDRIKSEN::STEIN::152970::461353::100000::Kelp export: fuel for adjacent communities in changing arctic ecosystems? NFR 255085/NIVA::::KELPEX
+FREDRIKSEN::STEIN::152970::421159::100000::MACROSEA - A knowledge platform for industrial macroalgae - SINTEF::::MACROSEA
+FREDRIKSEN::STEIN::152970::000500::103901::F.J.Walvigs stiftelse, tildeling 2015::::FRE/Walvig
+FREDRIKSEN::STEIN::152970::000000::103824::Driftsmidler Jonas Thormar Gjaldbæk::::JONAS
+FREDRIKSEN::STEIN::152970::000000::103724::Svalbard - Fredriksen::::
+FREDRIKSEN::STEIN::152970::212080::100000::Alger::::Alger
+::GG::::::::::::
+GUSAROVA::GALINA::152950::144342::100000::257642 Reindeer interactions from plants and birds to humans::::REININ gen.drift
+GUSAROVA::GALINA::152950::144342::120333::257642 Reindeer interactions from plants and birds to humans, videreført til partnere::::REININ avtaler
+::HAG::::::::::::
+HAGELBERG::ERIKA::152900::211805::100000::From Racial typology to DNA sequencing: Race and ethnicity and the science of human genetic variation 1945-2012, NFR 220741::::Racial typology, drift
+HAGELBERG::ERIKA::152900::000000::103929::Annum Erika Hagelberg::::HAG
+::THO::::::::::::
+HANSEN::THOMAS::152950::651052::100000::FLYWING::::FLYWING
+HANSEN::THOMAS::152950::000000::103935::Annum Thomas Hansen::::THO
+HANSEN::THOMAS::152950::000000::103849::Hansen - leder for forum for vitenksapsteori::::THO
+::HAV::::::::::::
+Haverkamp::Thomas::152950::000000::103720::NoMI 2011::::
+::HEL::::::::::::
+HELBERG::MORTEN::152950::211829::100065::Urbane Populasjoner - tilskudd til viltformål::::URPOP
+HELBERG::MORTEN::152950::204966::100000::Miljøgifter i en urban fjord - oppdrag Miljødirektoratet::::Miljøgifter 2015
+HELBERG::MORTEN::152950::480085::SLUTT::Miljøgifter i en urban fjord - 2016::::Miljøgifter 2016
+::ESS::::::::::::
+HESSEN::DAG O.::152950::143733::SLUTT::225591/E40 BiodivERsA Biodiversity dynamics and tipping points in our future freshwater ecosystems -  start 1.1.2013::::LIMNOTIP drift
+HESSEN::DAG O.::152950::143792::SLUTT::224779/E10 Effects of climate change on boreal lake ecosystems: productivity and community responses::::ECCO
+HESSEN::DAG O.::152950::143792::SLUTT::224779/E10 Effects of climate change on boreal lake ecosystems: productivity and community responses::::ECCO, avtaler
+HESSEN::DAG O.::152970::461282::100000::Drinking water treatment adaptation to increasing levels of DOM and changing DOM quality under climate change::::DOMQUA
+HESSEN::DAG O.::152950::461170::SLUTT::Biodiversity management and the Water Framework Directive under climate change (BiWA) - NFR 221410/NINA::::BiWA (kun lønn)
+HESSEN::DAG O.::152970::651009::100000::Blending Stoichiometric and Metabolic Theories fraom Genes to Populations Resource Stoichiometry and Temperature Effects on Consumers with Contrasting Life-history Strategies - 658838::EU::STOICHIOMET
+HESSEN::DAG O.::152970::000000::103921::Annum Dag O. Hessen::::ESS
+HESSEN::DAG O.::152970::000500::103707::Formidlingspris::::FORMIDLINGSPRIS
+HESSEN::DAG O.::152970::000000::103831::Thrane, Jan-Erik - phd-driftsmidler::::THRANE
+::HES::::::::::::
+HESTMARK::GEIR::152950::000000::103903::Annum Geir Hestmark::::HES
+::HOLEN::::::::::::
+HOLEN::ØISTEIN HAUGSTEN::152950::144209::100000::249987/f20 The evolution of defence systems: theory and experimenT::::EvoDef
+::::::::::::::
+HUTCHINGS::JEFFREY::152950::143961::100000::233740/E40 Genetic variability in population responses of Atlantic cod to environmental change::::Cod Plasticity-drift
+HUTCHINGS::JEFFREY::152950::143961::120333::233740/E40 Genetic variability in population responses of Atlantic cod to environmental change::::Cod Plasticity-avtale
+::HYL::::::::::::
+HYLLAND::KETIL::152970::144207::100000::JPI Oceans - Ecotoxicological Effects of Microplastics in Marine Ecosystems - EPHEMARE::::EPHEMARE
+HYLLAND::KETIL::152970::190717::100000::dCod 1.0: decoding systems of cod (Gadus morhua) - environmental genomics for ecosystem quality monitoring and risk assessment, NFR 248840/O70::::dCOD
+HYLLAND::KETIL::152970::461189::100000::Micro- and nanoplastic impacts on the marine environment - (MIME)::::MIME
+HYLLAND::KETIL::152970::480062::100000::Fisk i indre Oslofjord (oppdrag Fagrådet)::::Fisk Oslofjord/oppdrag
+HYLLAND::KETIL::152970::690419::100000::Consolidating knowledge on chemical substances for efficient and effective decisions -CONOSCEDE::::CONOSCEDE
+HYLLAND::KETIL::152970::000000::103928::Annum Ketil Hylland::::HYL
+HYLLAND::KETIL::152970::000000::103817::Annumsmidler  YAZDANI MAZYAR - ved TOKS::::YAZDANI
+HYLLAND::KETIL::152970::000000::103959::HOLTH - drift::::HOLTH
+HYLLAND::KETIL::152970::000000::103826::Andrea Lenderink::::LENDERINK
+HYLLAND::KETIL::152970::000000::103837::Raoul Wolf::::WOLF
+::HØI::::::::::::
+HØILAND::KLAUS::152960::000000::103902::Annum Klaus Høiland::::HØI
+::KSJ::::::::::::
+JAKOBSEN::KJETILL::152950::143348::SLUTT::INFRA NSC - 195443/V30 Norwegian High-throughput Sequencing Centre::::INFRA NSC
+JAKOBSEN::KJETILL::152950::143388::SLUTT::NFR 199806/S40 - Translating the Cod Genome for Aquaculture::::Cod Reseq HAVBRUK
+JAKOBSEN::KJETILL::152950::143785::100000::222378/F20 Functional and comparative immunology of a teleosts world without MHC II::::ComparaCod
+JAKOBSEN::KJETILL::152950::143785::120333::222378/F20 Functional and comparative immunology of a teleosts world without MHC II::::ComparaCod avtale
+JAKOBSEN::KJETILL::152950::143851::100000::The Aqua Genome project - andre utgifter::::Aqua Genome annet
+JAKOBSEN::KJETILL::152950::143851::100110::The Aqua Genome project - WP1 DATABASE ESTABLISHMENT::::Aqua Genome WP1-D
+JAKOBSEN::KJETILL::152950::143851::100130::The Aqua Genome project - WP1/3  SALMON SEQUENCING::::Aqua Genome WP1/3-S
+JAKOBSEN::KJETILL::152950::143851::100135::The Aqua Genome project - WP1/3  COD SEQUENCING::::Aqua Genome WP1/3-C
+JAKOBSEN::KJETILL::152950::143851::100140::The Aqua Genome project - WP4  EPIGENETICS::::Aqua Genome WP4
+JAKOBSEN::KJETILL::152950::143851::100150::The Aqua Genome project - WP5  IMMUNOLOGY COD - Nofima::::Aqua Genome WP5-I Nofima
+JAKOBSEN::KJETILL::152950::143851::100151::The Aqua Genome project - WP5  IMMUNOLOGY SALMON -  Aquagen::::Aqua Genome WP5-I Aquagen
+JAKOBSEN::KJETILL::152950::143851::100152::The Aqua Genome project - WP5  IDENTIFICATION OF GENES AFFECTING IMPORTANT TRAITS::::Aqua Genome WP5-ID
+JAKOBSEN::KJETILL::152950::143851::108000::The Aqua Genome project - SAMPLING::::Aqua Genome SAMPL
+JAKOBSEN::KJETILL::152950::143851::108001::The Aqua Genome project - REISE/MØTER::::Aqua Genome REISE
+JAKOBSEN::KJETILL::152950::143851::120000::The Agua Genome project - lønn postdok/forsker::::Aqua Genome fastlønn
+JAKOBSEN::KJETILL::152950::143851::120100::The Aqua Genome project - lønn Cigene::::Aqua Genome lønn Cigene
+JAKOBSEN::KJETILL::152950::143851::120200::The Aqua Genome project - lønn Nofima::::Aqua Genome lønn Nofima
+JAKOBSEN::KJETILL::152950::143851::120300::The Aqua Genome project - Lønn AquaGen::::Aqua Genome lønn AquaGen
+JAKOBSEN::KJETILL::152950::143851::120333::The Aqua Genome project - VIDEREFØRING IHHT AVTALER::::Aqua Genome avtaler
+JAKOBSEN::KJETILL::152950::143923::100000::NFR 226110/F50 The Norwegian Sequencing Centre - Phase II::::NSC Phase II
+JAKOBSEN::KJETILL::152950::143923::120333::NFR 226110/F50 The Norwegian Sequencing Centre - Phase II - konsortieavtale::::NSC Phase II avtale OUS
+JAKOBSEN::KJETILL::152950::143935::100000::230433/E20 - Novel techniques for seabed monitoring of CO2 leakage and monitoring campaigns based on reservoir, cap rock and overburden migration models::::FENCO - drift
+JAKOBSEN::KJETILL::152950::143935::120333::230433/E20 - Novel techniques for seabed monitoring of CO2 leakage and monitoring campaigns based on reservoir, cap rock and overburden migration models - samarbeidsavtale::::FENCO - avtale
+JAKOBSEN::KJETILL::152950::144337::100000::251076/F20 Evolutionary and functional importance of simple repeats in the genome::::REPEAT drift
+JAKOBSEN::KJETILL::152950::430372::100000::Test av ny prosedyre for tarmbakterieanalyse::::Tarmbakterier drift
+JAKOBSEN::KJETILL::152950::720145::100000::Genetisk bakgrunn hos ulv Canis lupus i Norge og Skandinavia, gave fra NORSKOG::::Ulv gave
+JAKOBSEN::KJETILL::152950::000000::103904::Annum Kjetill Jakobsen::::KSJ
+JAKOBSEN::KJETILL::152950::000500::103601::DNA-sekvensiering Kjetill Jakobsen::::KSJ-DNA (Jubileumskonto)
+JAKOBSEN::KJETILL::152950::000500::123501::EMBIO - Russell Orr::::ORR
+JAKOBSEN::KJETILL::152950::000500::103505::Utstyr Jakobsen - Automatiseringsutstyr NSC::::KSJ-ustyr
+JAKOBSEN::KJETILL::152950::000500::103732::KJS - SAK-midler::::SAK-KSJ
+JAKOBSEN::KJETILL::152950::000500::103718::KJS - MLS-konferanse::::MLS-konferanse
+JAKOBSEN::KJETILL::152950::000500::103604::KSJ - MLS Digitalt Liv::::MLS-konferanse
+::::::::::::::
+JENTOFT::SISSEL::152950::190649::100000::Assessment of long-term effects of oil exposure on early life stages of Atlantic haddock using state-of -the art genomics tools in combination with fitness observations - NFR 234367/E40::::Haddock
+JENTOFT::SISSEL::152950::190650::100000::Adaptation or plasticity as response to large scale translocations and harvesting over a climatic gradient in the marine ecosystem? - NFR 234328::::WRASSE
+JENTOFT::SISSEL::152950::000000::103982::Annum Sissel Jentoft::::Jentoft
+::KÅR::::::::::::
+KAARTVEDT::STEIN::152970::000000::103907::Annum Stein Kaartvedt::::KÅR
+::HEK::::::::::::
+KARLSEN::HANS ERIK::152970::000500::103730::Disponering av frikjøp vedr. CollPen - NFR 204229/F20 og Oppdrag Tobisprosjekt::::HEK
+KARLSEN::HANS ERIK::152970::000000::103905::Annum Hans Erik Karlsen::::HEK
+KARLSEN::HANS ERIK::152970::000000::103746::Rune Roland Hansen::::HANSEN
+KARLSEN::HANS ERIK::152970::220239::100000::Rune Roland Hansen::::STATOIL-Satellite tags
+KARLSEN::HANS ERIK::152970::220271::100000::Fish and seismic, scoping workshop and experiments - Statoil 4503274597 - v/Havforskningsinstituttet::::STATOIL-Makrell
+KARLSEN::HANS ERIK::152970::461384::100000::Rune Roland Hansen - Walvig 2016::::Walvig Hansen
+KARLSEN::HANS ERIK::152970::461385::100000::H.E. Karlsen -Walvig 2016::::Walvig Karlsen
+KARLSEN::HANS ERIK::152970::461386::100000::Karlsen/Sørnes - Walvik 2016::::Walvig Sørnes
+KARLSEN::HANS ERIK::152970::000500::103749::Karlsen - UNIFOR::::HEK-UNIFOR
+KARLSEN::HANS ERIK::152970::000500::103742::Rune Roland Hansen - UNIFOR::::UNIFOR-HANSEN
+KARLSEN::HANS ERIK::152970::000000::103852::Walvig - prosjektavslutning::::
+::HÅV::::::::::::
+KAUSERUD::HÅVARD::152960::143842::100000::Climate change effects on the fungal ecosystem component - CLIMFUN - 225043/E10 - NFR - Håvard Kauserud::::CLIMFUN
+KAUSERUD::HÅVARD::152960::143842::120333::Climate change effects on the fungal ecosystem component - CLIMFUN - 225043/E10 - NFR - Håvard Kauserud, videreføres samarbeidspartner::::CLIMFUN avtale
+KAUSERUD::HÅVARD::152960::144106::100000::Linking the soil mycobiome to ecosystem diversity, productivity and carbon sequestration in boreal forests - NFR 240859/F20::::MycoSoil
+KAUSERUD::HÅVARD::152960::144106::120333::Linking the soil mycobiome to ecosystem diversity, productivity and carbon sequestration in boreal forests - NFR 240859/F20::::MycoSoil - avtaler
+KAUSERUD::HÅVARD::152960::144282::100000::Fungal conservation genetics: Effect of forest fragmentation on genetic diversity in dead wood dependent fungi in space and time. 254746/E50::::FunGen
+KAUSERUD::HÅVARD::152960::650151::100000::628326 FunDisTrait - Fungal conservation genetics: species traits and dispersal - Sundy Maurice::EU::FunDisTrait
+KAUSERUD::HÅVARD::152960::651008::100000::Unraveling the ecology of a widespread fungal group by genomic, isotopic and physiological analyses - 658849 MYCENA::EU::MYCENA
+KAUSERUD::HÅVARD::152960::690390::(midl.t.103856) 100000::BIOFUN EMP265 Håvard Kauserud::::BIOFUN
+KAUSERUD::HÅVARD::152960::000000::103942::Annum Håvard Kauserud::::HÅV
+KAUSERUD::HÅVARD::152960::000000::103855::NHM samarbeidsprosjekt::::HÅV
+KAUSERUD::HÅVARD::152960::000000::103823::Unni Vik - drift. AVSLUTTET 2016 - saldo overført 103942 annum::::UNNI
+KAUSERUD::HÅVARD::152960::000000::103738::Kauserud - UNIFOR/Nansenfond::::UNIFOR-HÅV
+KAUSERUD::HÅVARD::152960::000500::103716::MLS Stipendiat (Anders B. Aas)::::HÅV MLS-stip
+KAUSERUD::HÅVARD::152960::000000::103838::Synnøve Botnen  - KD-stipendiat::::BOTNEN
+KAUSERUD::HÅVARD::152960::000000::103845::Thoen - drift::::Thoen
+KAUSERUD::HÅVARD::152960::190732::100000::BalanC _The impact of increasing spruce plantation area on the carbon balance of forests in Western Norway::::BALANC
+KAUSERUD::HÅVARD::152960::690462::100000::NOCC_ Quantifying the role of mycorrhizal fungi in soil organic matter dynamics in boreal forest soils::::NOCC
+KAUSERUD::HÅVARD::152960::190733::100000::243663 BioMim_Advancing biomass technology - a biomimetic::::BioMim
+KAUSERUD::HÅVARD::152960::000000::104048::Estensmo  - KD-stipendiat::::ESTENSMO
+::KLA::::::::::::
+KLAVENESS::DAG::152970::000000::103906::Annum Dag Klaveness::::KLA
+::KNUTSEN::::::::::::
+KNUTSEN::HALVOR::152950::211937::100000::Spisskompetanse inom marin och akvatisk ekologi och genomforskning for uthållig förvaltning av fisk og skaldjur i Skagerrak-Kattegat-Øresund - MarGEN - INTERREG ØKS/HI::::MarGEN
+::HML::::::::::::
+LAMPE::HELENE::152950::000000::103908::Annum Helene Lampe::::HML
+::Langangen::::::::::::
+LANGANGEN::ØYSTEIN::152950::144288::100000::Long-term effects of local scale OIL pollution on fish Populations and COMmunities in the Lofonten-Barents Sea system, NFR 255487::::OILCOM
+LANGANGEN::ØYSTEIN::152950::144288::120333::Long-term effects of local scale OIL pollution on fish Populations and COMmunities in the Lofonten-Barents Sea system, NFR 255487::::OILCOM avtale
+::LEI::::::::::::
+LEINAAS::HANS PETTER::152960::690375::100001::Declining size - a general response to climate warming in Arctic fauna (DWARF)::::DWARF drift WP 1
+LEINAAS::HANS PETTER::152960::690375::100002::Declining size - a general response to climate warming in Arctic fauna (DWARF)::::DWARF drift WP 2
+LEINAAS::HANS PETTER::152960::690375::100006::Declining size - a general response to climate warming in Arctic fauna (DWARF)::::DWARF drift WP 6
+LEINAAS::HANS PETTER::152960::690375::120436::Declining size - a general response to climate warming in Arctic fauna (DWARF)::::DWARF søknadsmidler
+LEINAAS::HANS PETTER::152970::000000::103909::Annum Hans Petter Leinaas::::LEI
+LEINAAS::HANS PETTER::152970::000000::103712::Sengupta::::LEI
+LEINAAS::HANS PETTER::152970::000500::103731::LEI - SAK-milder::::LEI
+LEINAAS::HANS PETTER::152970::000000::103841::Midl konto - DWARF::::LEI
+LEINAAS::HANS PETTER::152970::000000::103952::Terrestrisk toksikologi::::LEI
+::LIOW::::::::::::
+LIOW::LEE HSIANG::152950::143912::100000::NFR 235073/F20 Phanerozoic diversification: linking observation and process::::NFR/ERC Liow
+::LOGARES::::::::::::
+LOGARES::RAMIRO::152960::144100::100000::NFR 240904 Assembling a Micro Eco-System: Unveiling the network of ecological interactions in a marine microbial community using Next-Generation omics::::Micro Eco-system
+::ATLE::::::::::::
+MYSTERUD::ATLE::152950::143496::SLUTT::NFR 203786/E40 - LAND: Partial migration of red deer and tick distribution at the altitudinal colonization border (TickDeer)::::TickDeer
+MYSTERUD::ATLE::152950::143965::100000::NFR 230275/E50 LAND: Delimiting functional management units for partially migratory deer populations (DeerUnit)::::DeerUnit drift
+MYSTERUD::ATLE::152950::143965::120333::Samarbeidsavtaler NFR 230275/E50 LAND: Delimiting functional management units for partially migratory deer populations (DeerUnit)::::DeerUnit avtaler
+MYSTERUD::ATLE::152950::144215::100000::#EcoTick: Land use, climate and tick-borne diseases in dynamic multi-host ecosystems: estimated risk and experienced fear::::#EcoTick drift
+MYSTERUD::ATLE::152950::144215::120333::#EcoTick: Land use, climate and tick-borne diseases in dynamic multi-host ecosystems: estimated risk and experienced fear::::#EcoTick samarbeidsavtaler
+MYSTERUD::ATLE::152950::461285::120000::Climate effects on harvested large mammal populations::::CAS
+MYSTERUD::ATLE::152950::000000::103934::Annum Alte Mysterud::::ATLE
+MYSTERUD::ATLE::152950::000500::103731::Stimuleringsmidler SFF runde til Atle Mysterud/IBV/CEES::::ATLE
+::MYS::::::::::::
+MYSTERUD::IVAR::152900::211902::SLUTT::Forebyggende tiltak mot alveld hos lam, Bioforsk/Regionalt forskningsfond Midt-Norge::::RFF ALVELD (ny)
+MYSTERUD::IVAR::152900::211902::SLUTT::Forebyggende tiltak mot alveld hos lam, Bioforsk/Regionalt forskningsfond Midt-Norge::::RFF ALVELD - avtale NIVA/Farmasøytisk inst.
+MYSTERUD::IVAR::152900::461371::100000::Forebyggende tiltak mot alveld hos lam, NORSØK/Regionalt forskningsfond Midt-Norge::::RFF ALVELD/NorSøk
+MYSTERUD::IVAR::152900::000000::103910::Annum Ivar Mysterud::::MYS
+::IVER::::::::::::
+MYSTERUD::IVER::152900::000000::103941::Annum Iver Mysterud::::IVER
+::NESBØ::::::::::::
+NESBØ::CAMILLA::152950::142969::SLUTT::YFF NESBØ drift - Biogeographic and population analyses of Thermotogales from hydrocarbon envoronments::::YFF-Nesbø
+NESBØ::CAMILLA::152950::142969::SLUTT::YFF NESBØ samarbeidsavtale  - Biogeographic and population analyses of Thermotogales from hydrocarbon envoronments::::YFF-Nesbø
+NESBØ::CAMILLA::152950::000000::103984::Annum Camilla Nesbø::::Nesbø
+::NIELSEN::::::::::::
+NIELSEN::ANDERS::152950::143914::100000::230279/E50 LAND: Pollination; an ecosystem service affected by climate change::::POLICLIM
+NIELSEN::ANDERS::152950::143914::120333::230279/E50 LAND: Pollination; an ecosystem service affected by climate change::::POLICLIM avtaler
+NIELSEN::ANDERS::152950::144418::100000::Effects of Neonicotinoids and Temperature on Crop Pollination - NFR 268415/E50::::NEOPOLL
+NIELSEN::ANDERS::152950::144418::120333::Effects of Neonicotinoids and Temperature on Crop Pollination - NFR 268415/E50, Avtalebeløp::::NEOPOLL avtaler
+NIELSEN::ANDERS::152950::190676::SLUTT::246704 - Sjokoladens søte lille hemmelighet::::Sjokolade
+NIELSEN::ANDERS::152950::000000::103983::Annum Anders Nielsen::::Nielsen
+::NILSSON::::::::::::
+NILSSON::ANNA::152950::143791::100000::221393/E40 VANN - Evolutionary ecology and hydrology - the effects of stream flow dynamics on the white-throated dipper::::HydroFossekall
+NILSSON::ANNA::152950::143791::120333::221393/E40 VANN - Evolutionary ecology and hydrology - the effects of stream flow dynamics on the white-throated dipper::::HydroFossekall samarbeidsavtale
+::NORD::::CompostInWest::::::::
+NORDERHAUG::KJELL MAGNUS::152970::000000::103961::Annum - Norderhaug::::KMN
+NORDERHAUG::KJELL MAGNUS::152970::500::103857:: Walvigs Stiftelse - Masterstud. ::::KMN
+::ONS::::::::::::
+ONSRUD::MAREN::152900::144452::900000::Graduate Research Opportunity Worldwide - NFR-finansierte stipendordninger::::Stipender
+::::::::::::::
+ORR::RUSSELL::152960::143956::100000::Genome dynamics in early eukaryotic evolution: importance of enigmatic lineages - NFR 230868/F20::::COLLO drift
+::::::::::::::
+OTTERSEN::GEIR::152950::461294::100000::Quantifying natural variability in spawning and survival of Northeast Arctic haddock - VISTA 6163::::HADVAR
+::::::::::::::
+RUENESS::JAN::152900::000000::103974::Annum Jan Rueness::::RUE
+::::::::::::::
+RYDMARK::MARCELLA::152960::121357::100000::Structure and dynamics of Yersinia Adhesin A in a membrane by nuclear magnetic resonance and electron paramagnetic resonance spectroscopy - NFER 240909/F20::::NFRYADA
+::::::::::::::
+SALZBURGER::WALTER::152950::650159::100000::ERC 617585 CICHLIDX - An integrative approach towards the understanding of an adaptive radiation of East African cichlid fishes::EU::CICHLIDX - drift
+SALZBURGER::WALTER::152950::650159::900008::ERC 617585 CICHLIDX - An integrative approach towards the understanding of an adaptive radiation of East African cichlid fishes::EU::CICHLIDX -mva
+::SCH::::::::::::
+SCHUMACHER::TROND::152960::211934::100000::A unified taxonomy and biogeography of Helvella - Artsdatabanken::::HELVELLA
+SCHUMACHER::TROND::152960::000000::103912::Annum - Trond Schumacher::::SCH
+::KAMRAN::::::::::::
+SHALCHIAN-TABRIZI::KAMRAN::152960::000000::103936::Annum Kamran Shalchia-Tabrizi::::Kamran
+SHALCHIAN-TABRIZI::KAMRAN::152960::000500::150103::Startpakke - Kamran::::START-KAMRAN
+SHALCHIAN-TABRIZI::KAMRAN::152960::000500::103735::Sunniva og Egil Baardseths legat - genetisk basis for tallusmorfologi i makroalger::::SEB legat Kamran
+SHALCHIAN-TABRIZI::KAMRAN::152960::000000::103805::Jon Bråte - drift::::JON
+SHALCHIAN-TABRIZI::KAMRAN::152960::000000::103828::MLS - Kamran  (Neumann)::::MLS-Neumann
+SHALCHIAN-TABRIZI::KAMRAN::152960::000000::103829::Anders Krabberød - drift::::Krabberød
+::::152960::000000::103853::Ina Jungersen Andresen - drift::::Andersen
+SHALCHIAN-TABRIZI::KAMRAN::152970::143617::SLUTT::X-cell parasites: an emerging threat to marine fish::::X-cell
+SHALCHIAN-TABRIZI::KAMRAN::152960::191011::10000::CompostInWest::SIMAS Næring AS::Compost
+::SKREDE::::::::::::
+SKREDE::INGER::152960::143818::100000::InHouse: The genomic and physiological basis of invasiveness in a harmful house-invader - NFR 221840::::InHouse
+SKREDE::INGER::152960::000000::103809::Annum - Inger Skrede::::SKREDE
+::SLA::::::::::::
+SLAGSVOLD::TORE::152950::000000::103926::Annum Tore Slagsvold::::SLA
+::::::::::::::
+STAR::BASTIAAN::152950::144484::100000::262777/F20 Catching the Past: Discovering the legacy of historic Atlantic cod exploitation ::::OldFishing gen.drift
+STAR::BASTIAAN::152950::144484::120333::262777/F20 Catching the Past: Discovering the legacy of historic Atlantic cod exploitation ::::OldFishing avtale 
+STAR::BASTIAAN::152950::461365::SLUTT::Investigating artifacts using ancient DNA to trace historic trade and exploitation of Atlantic walrus - Nansenfondet::::Walrus
+::NCS::::::::::::
+STENSETH::NILS CHR.::152950::142957::120000::NFR - SFF CEES::::NFR-SFF CEES
+STENSETH::NILS CHR.::152950::143561::SLUTT::203850/E40 Fisheries induced evolution in Atlantic cod investigated by ancient and historic samples::::FIE - drift
+STENSETH::NILS CHR.::152950::143561::SLUTT::203850/E40 Fisheries induced evolution in Atlantic cod investigated by ancient and historic samples, samarbeidsavtale NOFIMA::::FIE - avtale
+STENSETH::NILS CHR.::152950::143648::100000::215831/E10 Strengthening the adaptive capacity of institutions in fisheries::::ADCAP drift
+STENSETH::NILS CHR.::152950::143648::120333::215831/E10 Strengthening the adaptive capacity of institutions in fisheries::::ADCAP avtale
+STENSETH::NILS CHR.::152950::143670::SLUTT:: Bringing together evolution and ecology through the Red Queen Perspective, NFR 214285/F20::::RED QUEEN drift
+STENSETH::NILS CHR.::152950::143765::100000::225031/E10 Climate Changes and Zoonotic Epidemiology in Wildlife Systems (ZEWS)::::ZEWS
+STENSETH::NILS CHR.::152950::143786::100000::227860/F20 ERC-Stenseth Red Queen coevolution in multispecies communities: long-term evolutionary consequences of biotic and abiotic interactions::::EVOQUE
+STENSETH::NILS CHR.::152950::144127::100000::244647/E10 - Sustainable management of renewable resources in a changing environment: an integrated approach across ecosystems::::SUSTAIN -drift
+STENSETH::NILS CHR.::152950::144127::120333::244647/E10 - Sustainable management of renewable resources in a changing environment: an integrated approach across ecosystems::::SUSTAIN-samarbeidsavtaler
+STENSETH::NILS CHR.::152950::144495::100000::PlagPART: A Norwegian-Russian-Chinese research and training network in the study of plague::::PlagPART
+STENSETH::NILS CHR.::152950::190608::(100000)Overtrukket i 2013::Norwegian Marine Data Centre (NMDC) NFR 208849/F50 - samarbeid med HI::::NMDC
+STENSETH::NILS CHR.::152950::421129::100000::Multi-species dynamics above and beneath the sea-surface. NFR 243892/SNF - Florian Diekert::::SeaSurf
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER gen.drift
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER konsortiesavtaler
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource -  Ekstratildeling postdok Oslo::::NorMER Ekstra Oslo
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource -  Ekstratildeling postdok Island::::NorMER Ekstra Island
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER UiO-andel drift
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER  lønn kortvarige stillinger, UiO-finansiert
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER postdoklønn
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER PhD lønn MN fak.
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER PhD lønn NorMER
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER lønn adm
+STENSETH::NILS CHR.::152950::610314::SLUTT::Climate Change Effects on Marine Ecosystems and Resource::::NorMER Mobility
+STENSETH::NILS CHR.::152950::000500::103859::NorMER - gjenstående midler etter prosjektavslutning 610314 ::::NorMER
+STENSETH::NILS CHR.::152950::610345::SLUTT::Workshops on the cumulative effects of the anthropogenic imprint on the Seas of Norden::::Workshops SoN
+STENSETH::NILS CHR.::152950::690448::100000::Saving the endangered Bale monkey through protection of montane bamboo in the southern Ethiopian Highlands - Addisu Mekonnen Kassie::::Bale Monkey - PBNF
+STENSETH::NILS CHR.::152950::690468::100000::Foresight Workshop CoDReG - Beyond climate change research in the Nordic Seas - Connecting the Dots to Reveal the Gaps::::CoDReG drift
+STENSETH::NILS CHR.::152950::690473::100000::Plague Ecosystem Resilience to Intervention (PERI). A One Health Approach. NOCC::::PERI
+STENSETH::NILS CHR.::152950::000000::103927::Annum - Nils Christian Stenseth::::NCS
+STENSETH::NILS CHR.::152950::000000::703810::NCS - reiser til fakturering::::
+::LCS::::::::::::
+STIGE::LEIF CHR::152950::000000::103989::Annuum - Leif Chr. Stige::::LCS
+::SVE::::::::::::
+SVERDRUP::LINE::152970::000000::103952::Annum Line Sverdrup::::LINE
+::GPS::::::::::::
+SÆTRE::GLENN-PETER::152950::144080::100000::240557/F20 On the role of hybridisation in evolution - the case of Eurasian Passer sparrows::::Eurasian Passer sparrows
+SÆTRE::GLENN-PETER::152950::000000::103932::Annum Glenn-Petter Sæthre::::GPS
+::TROSVIK::::::::::::
+TROSVIK::PÅL::152950::143934::100000::230796/F20 Modeling microbial dynamics of the human infant gut::::GUTBUGS
+TROSVIK::PÅL::152950::000500::103701::Trosvik - fellesløftet::::TROSVIK
+TROSVIK::PÅL::152950::000000::803802::16S sekvensering - Trosvik::::16s sekv
+::TLM::::::::::::
+TITELMAN::EMMA REBECKA JOSEFIN::152970::000000::103825::Oda Bjærke - driftsmidler PhD::::BJÆRKE
+TITELMAN::EMMA REBECKA JOSEFIN::152970::000500::150106::Startpakke - Titelman::::START-TITELMAN
+TITELMAN::EMMA REBECKA JOSEFIN::152970::000000::103947::Annum  - Titelman::::TLM
+TITELMAN::EMMA REBECKA JOSEFIN::152970::000000::103811::Rebecca Claire Hunter::::HUNTER
+::THR::::::::::::
+THRONDSEN::JAN::152900::000000::103979::Annum - Throndsen::::THR
+::UGL::::::::::::
+UGLAND::KARL INNE::152970::000000::103915::Annum Karl Inne Ugland::::UGL
+UGLAND::KARL INNE::152970::250724::100000::Biomimicry_undervann propulsjonsmetoder::::Biomimicry
+::VIK::::::::::::
+VIK::UNNI::152960::121355::100000::The plant root microbiome diversity and resilience in a changing climate::::DRIVE
+VIK::UNNI::152960::121355::120333::The plant root microbiome diversity and resilience in a changing climate::::DRIVE avtale
+::VIL::::::::::::
+VILJUGREIN::HILDEGUNN::152950::000000::103953::Annum Hildegunn Viljugrein::::HILDE
+::VIL::::::::::::
+VILLANGER::GRO DEHLI::152970::000000::103948::Annum Villanger::::VIL
+::YNGVILD::::::::::::
+VINDENES::YNGVILD::152950::143835::100000::NFR-224738 Applying a new demographic framework to understand,and project consequences of climate change in size- and age-structured,populations::::Vindenes
+VINDENES::YNGVILD::152950::144094::100000::NFR-244404/E10 Managing ecosystems in an increasingly variable world::::ECOVAR
+VINDENES::YNGVILD::152950::000000::103991::Annum - Vindenes::::Vindenes
+::VOJE::::::::::::
+VOJE::KJETIL LYSNE::152950::144250::100000::NFR 249961/F20 Dissecting evolutionary rates across time: Bridging micro- and macroevolution::::DETERMINE
+::ANE V::::::::::::
+VOLLSNES::ANE VICTORIA::152960::200908::100000::Beskyttelse av små granplanter mot gransnutebiller::::ALVOGRAN
+VOLLSNES::ANE VICTORIA::152960::200908::120333::Beskyttelse av små granplanter mot gransnutebiller, samarbeidsavtaler::::ALVOGRAN avtaler
+VOLLSNES::ANE VICTORIA::152960::421143::SLUTT::Økt effekt av insekticidfri beskyttelse av granplanter med voks, mot gransnutebiller::::Billeskremsel
+VOLLSNES::ANE VICTORIA::152960::421165::100000::BiVaGran - Science based improvement of the protection of spruce plants against pine weevils: Prevent weevil attacks and reduced risk of heat stress::::BiVaGran
+VOLLSNES::ANE VICTORIA::152960::461412::100000::Feltforsøk med Merit Forest- og voks-behandlede planter::::MeritVoks
+VOLLSNES::ANE VICTORIA::152960::144457::100000::OzoNorClim:The double punch: ozone and climate stresses on
+vegetation::::OzoNorClim
+::TRUDE::::::::::::
+VRÅLSTAD::TRUDE::152960::000000::103950::Annum Trude Vrålstad::::TRUDE
+::VØL::::::::::::
+VØLLESTAD::LEIF ASBJØRN::152950::143325::SLUTT::NyStingsild drift: 196639/V40 Tracking signatures of adaptive diversification during postglacial colonization: the build-up of genomic isolation in threespine stickleback::::Nystingsild
+VØLLESTAD::LEIF ASBJØRN::152950::461163::SLUTT::Hydropower and connectivity in inland rivers - NFR 221454/E40::::RIVERCONN
+VØLLESTAD::LEIF ASBJØRN::152950::190709::100000::Productivity and Resilience Enhancement of Exploited Fish stocks: an experimental approach - 255601/E40 REEF::::REEF drift
+VØLLESTAD::LEIF ASBJØRN::152950::190714::100000::Size-dependent anthropogenic perturbations - from genes to ecosystems and back - NFR 251307::::EvoSize drift
+VØLLESTAD::LEIF ASBJØRN::152950::000000::103916::Annum Leif Asbjørn Vøllestad::::VØL
+::AAR::::::::::::
+AARNES::HALVOR::152940::000000::103918::Annum Halvor Aarnes::::AAR
+::FELLESAVDELINGER::::::::::::
+Fellesavdeling::Hans Borg::152900::000000::914020::BILPOOL::::BIL
+Fellesavdeling::Hans Borg::152900::000000::913802::Sentralverkstedet (VER)::::VER
+Fellesavdeling::Tone Gregers::152900::000000::913902::Skolelaboratoriet i biologi (SKO)::::SKO
+Fellesavdeling::Hans-Erik Karlsen::152972::000000::913903::Biologisk stasjon Drøbak (DRØ) forbruk::::DRØ
+Fellesavdeling::Torbjørn Håkan Ergon::152952::000000::913904::Finse forskningssenter (FIN)::::FIN
+Fellesavdeling::Sindre Holm::152971::000000::913905::Forskningsfartøy - Båtpool (BÅT)::::BÅT
+Fellesavdeling::Nanna Winger Steen::152950::000000::913912::CEES-lab::::CEES-lab
+Fellesavdeling::Berit Kaasa::152900::000000::913913::CHN-lab::::CHN-lab
+Fellesavdeling::Nanna Winger-Steen::152900::000000::913920::aDNA::::aDNA
+Ledelsen::Maren Onsrud::152900::000000::400003::DR disputas IBV::::dr.disp
+Ledelsen::Finn Eirik Johansen::152900::000000::703801::Formidling/ungforsk::::Ungforsk
+Ledelsen::Finn Eirik Johansen::152900::000000::703802::Fagutvalget::::Fagutvalget
+Ledelsen::::152900::000000::900007::HMS IBV::::HMS
+Ledelsen::Maren Onsrud::152900::000000::914004::Kompetanseutvikling::::KOMP
+Studieseksjonen::::152900::000000::609001::Kurs-koder bachelor::::drift 1xxx-2xxx kurs bachelor
+Studieseksjonen::::152900::000000::609005::BIO1000-1200::::BIO1000-1200
+Studieseksjonen::Studiekvalitet::152900::000000::609010::Studiekvalitetsmidler - BIO::::Studiekvalitet
+Studieseksjonen::::152900::000000::609001::BIO1000::::BIO1000
+Studieseksjonen::::152900::000000::609002::BIO1010::::BIO1010
+Studieseksjonen::::152900::000000::609003::BIO1200/1200A::::BIO1200/1200A
+Studieseksjonen::::152900::000000::609004::BIO2100::::BIO2100
+Studieseksjonen::::152900::000000::609005::BIO2120::::BIO2120
+Studieseksjonen::::152900::000000::609006::BIO2140::::BIO2140
+Studieseksjonen::::152900::000000::609007::BIO2150/2150A::::BIO2150/2150A
+Studieseksjonen::::152900::000000::609008::BIO3081::::BIO3081
+Studieseksjonen::::152900::000000::619001::BIO4005::::BIO4005
+Studieseksjonen::::152900::000000::619002::BIO4021 / 9021::::BIO4021 / 9021
+Studieseksjonen::::152900::000000::619003::BIO4091 / 9091::::BIO4091 / 9091
+Studieseksjonen::::152900::000000::619004::BIO4115 / 9115::::BIO4115 / 9115
+Studieseksjonen::::152900::000000::619005::BIO4140 / 9140::::BIO4140 / 9140
+Studieseksjonen::::152900::000000::619006::BIO4150 / 9150::::BIO4150 / 9150
+Studieseksjonen::::152900::000000::619007::BIO4160 / 9160::::BIO4160 / 9160
+Studieseksjonen::::152900::000000::619008::BIO4170 / 9170::::BIO4170 / 9170
+Studieseksjonen::::152900::000000::619009::BIO4200 / 9200::::BIO4200 / 9200
+Studieseksjonen::::152900::000000::619010::BIO4210 / 9210::::BIO4210 / 9210
+Studieseksjonen::::152900::000000::619011::BIO4230 / 9230::::BIO4230 / 9230
+Studieseksjonen::::152900::000000::619012::BIO4240::::BIO4240
+Studieseksjonen::::152900::000000::619013::BIO4250::::BIO4250
+Studieseksjonen::::152900::000000::619014::BIO4260 / 9260::::BIO4260 / 9260
+Studieseksjonen::::152900::000000::619015::BIO4270 / 9270::::BIO4270 / 9270
+Studieseksjonen::::152900::000000::619016::BIO4301::::BIO4301
+Studieseksjonen::::152900::000000::619017::BIO4310::::BIO4310
+Studieseksjonen::::152900::000000::619018::BIO4320 / 9320 / 4325::::BIO4320 / 9320
+Studieseksjonen::::152900::000000::619019::BIO4331 / 9331::::BIO4331 / 9331
+Studieseksjonen::::152900::000000::619020::BIO4350::::BIO4350
+Studieseksjonen::::152900::000000::619021::BIO4371::::BIO4371
+Studieseksjonen::::152900::000000::619022::BIO4381 / 9381::::BIO4381 / 9381
+Studieseksjonen::::152900::000000::619023::BIO4390::::BIO4390
+Studieseksjonen::::152900::000000::619024::BIO4500::::BIO4500
+Studieseksjonen::::152900::000000::619025::BIO4530 /9530::::BIO4530 /9530
+Studieseksjonen::::152900::000000::619026::BIO4540 / 9540::::BIO4540 / 9540
+Studieseksjonen::::152900::000000::619027::BIO4550 / 9550::::BIO4550 / 9550
+Studieseksjonen::::152900::000000::619028::BIO4001(Tidligere BIO5000)::::BIO4001
+Studieseksjonen::::152900::000000::619029::BIO4400::::BIO4400
+Studieseksjonen::::152900::000000::693000::Time-hjelpelærer bachelor::::lønn/reiser bachelor
+Studieseksjonen::::152900::000000::619030::BIO4120 Masterkurs::::BIO4120
+Studieseksjonen::::152900::000000::693801::Time-hjelpelærer master::::lønn/reiser master
+Studieseksjonen::::152900::000000::629025::BIO - Spesialpensum sensur Master og PhD::::BIO - Spesialpensum sensur Master og PhD
+Studieseksjonen::::152900::000000::629026::BIO - Studiestart bachelor::::BIO - Studiestart bachelor
+Studieseksjonen::::152900::000000::629027::BIO - Programråd og undervisningsutvalg::::BIO - Programråd og undervisningsutvalg
+Studieseksjonen::::152900::000000::629028::BIO - Tilsynssensor::::BIO - Tilsynssensor
+Studieseksjonen::::152900::000000::629029::BIO - Studieseksjonen::::BIO - Studieseksjonen
+Studieseksjonen::::152900::000000::629030::BIO - Mastereksamen::::BIO - Mastereksamen
+Studieseksjonen::::152900::000000::649005::MNKOM 3000/4000::::MNKOM 3000/4000
+Studieseksjonen::::152900::000000::649007::MNKOM 9000::::MNKOM 9000
+Studieseksjonen::::152900::000000::691000::Sensur bachelor BIO::::Sensur bachelor
+Studieseksjonen::::152900::000000::692000::Sensur master BIO::::Sensur master
+Studieseksjonen::::152900::000000::609015::Studiestartmidler::::Studiestartmidler
+CEES-SFF::STENSETH/RYGG::152950::142957::100000::Generell drift CEES-NFR::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::104047::CEES-SENSFOR::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::107000::Drift til felt/lab-prosj::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::107005::Kollokvium 3::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::108005::Kollokvium 4::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::110100::Årsrapporten::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::120325::Drift post doc/ forskere - NFR::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::123505::Master/PhD konferanse 2010, inkl reise og hotell::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::123510::SAB møte, akademinet, inkl reise og hotell::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::123511::  CEES Møter, workshops og reiser::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::123515::  CEES fagseminarer, møter og workshops::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::123518::  CEES public lectures, inkl Darwin Day, Kristine Bonnevie Lecture o.l ::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::123525::Utgifter, CEES-lab::::CEES-NFR
+CEES-SFF::STENSETH/RYGG::152950::142957::123527::CEES KB-professor::::CEES-NFR
+CEES-BASIS::STENSETH/RYGG::152950::000000::100000::Generell drift CEES-BASIS::::CEES-BASIS
+CEES-BASIS::STENSETH/RYGG::152950::000000::103509::Utstyr, investeringer::::CEES-BASIS
+CEES-BASIS::STENSETH/RYGG::152950::000000::103844::PES-CEES::::CEES-BASIS
+CEES-BASIS::STENSETH/RYGG::152950::000000::107001::HMS-CEES::::CEES-BASIS
+CEES-BASIS::STENSETH/RYGG::152950::000000::110105::Publiseringsstøtte til forskerne::::CEES-BASIS
+CEES-BASIS::STENSETH/RYGG::152950::000000::120325::Drift post doc/ forskere - basis::::CEES-BASIS
+CEES-BASIS::STENSETH/RYGG::152950::000000::490001::Drift PhD'er::::CEES-BASIS
+CEES-BASIS::STENSETH/RYGG::152950::000000::123517::CEES - lønn midl::::CEES-BASIS
+Biologiforeningen::Torborg Galteland::152900::000000::803815::Norsk Biologiforening::::Biologiforeningen
+Microlab::Kathrine Schou::152900::000000::913915::Microlab (MERG-LAB)::::Microlab
+::::152900::000000::993905::Faktura/Kreditnota::::
+::::::::::::::
+::KKA::::::::::::
+Andersson::K. Kristoffer ::152940::143673::AVSLUTTET::214239/F20 3D protein structure, active site structure, and function of metallo- and radical proteins::::KKA
+Andersson::K. Kristoffer ::152940::000000::103958::Annum - KKA::::KKA
+Andersson::K. Kristoffer ::152940::000000::103830::KKA - Stipendiat Marta Hammerstad::::KKA
+Andersson::K. Kristoffer ::152940::000000::103802::KKA - Minisymposium::::KKA
+Andersson::K. Kristoffer ::152940::000500::103739::PES-Andersson FET open::::KKA
+Andersson::K. Kristoffer ::152940::000500::103757::MLS-Andersson fra Kjemisk Inst::::KKA
+Andersson::K. Kristoffer ::152940::190630::629024::MBV9220 Biostruct::::MBV9220
+::HPH::::::::::::
+Hersleth::Hans Petter::152940::143967::KUN LØNN::231669 Structural basis for electron transfer in and between redox proteins-recognitionm selectivity and flexibility - Fellesløft 2014.::::HPH
+Hersleth::Hans Petter::152940::000500::103761::Hersleth - Fellesløftet UiO::::
+Hersleth::Hans Petter::152940::000000::803811::Midler fra undervisning 2014::::
+Hersleth::Hans Petter::152940::000000::104040::Annum - Hersleth::::
+Hersleth::Hans Petter::152940::690459::100000::Structural characterization of the Shewanella onediensis
+5'nucleotidase UshA::::HPH
+::BAK::::::::::::
+Bakke::Oddmund::152930::143057::100000::179573/V40 Centre for Immune Regulation (CIR)::::CIR-NFR
+Bakke::Oddmund::152930::143658::100000::208310/F50 A national subcellular imaging platform, INFRA (2011/15447)::::SUBC
+Bakke::Oddmund::152930::143684::100000::143684 214183 Membrane nanotube formation from endosomes by::::
+Bakke::Oddmund::152930::144083::100000::The intracellular pathway for MHC Class II antigen presentation::::
+Bakke::Oddmund::152930::711039::100000::Kreftforeningen, KFpnr 0932506b - Bakke, generell drift::::MHC-DNK
+Bakke::Oddmund::152930::711039::120000::Kreftforeningen, KFpnr 0932506b - Bakke, postdoktorstipend::::MHC-DNK
+Bakke::Oddmund::152930::000000::103911::Annumskonto - BAK::::BAK
+Bakke::Oddmund::152930::000500::123507::FUGE v/ Bakke : BAK-FUGE::::BAK-FUGE
+Bakke::Oddmund::152930::000500::103708::CIR - intern::::CIR-intern
+Bakke::Oddmund::152930::000500::123521::EMBIO bevilgning under FUGE-programmet (plattform) (lønn 123520)::::BAK-MLS
+Bakke::Oddmund::152930::000000::103801::Imaging plattform - BAK Normic::::NORMIC
+Bakke::Oddmund::152930::000500::103715::MLS - Bakke Workshop::::BAK-WS
+Bakke::Oddmund::152930::000500::103507::Utstyrstildeling - egenandel UiO + MNF (se i budsj.regnskapsmessig)::::BAK-utstyr
+Bakke(Milzow/Heyward)::Oddmund::152930::000500::103847::ELMI2014 (tidl 421086)::::ELMI2014
+Bakke::Oddmund::152930::000000::103819::BAK - midl. prosjekt NFR::::BAK-midl
+Bakke::Oddmund::152930::000000::103843::InovaINVchain, Innovasjon UiO 2015::::InovaINVchain
+Bakke::Oddmund::152930::144396::100000::245928/F50 Norwegian Advanced Light Microscopy Imaging Network::::NALMIN
+::COR::::::::::::
+Corthay::Alexander::152930::143736::AVSLUTTET::214171 Role og macrophages for cancer eradication by the immune system (2012/5515) (midl tiltak 103802)::::COR
+::KOS::::::::::::
+Bakke::Oddmund::152930::143684::100005::214183 Membrane nanotube formation from endosomes by cooperating motors: physical regulation and quantitative characterization - Fellesløftet (2012/3860)::::RGK
+Bakke::Oddmund::152930::143684::100006::214183 Membrane nanotube formation from endosomes by cooperating motors: physical regulation and quantitative characterization - Fellesløftet (2012/3860)::::SPE
+Bakke::Oddmund::152930::143684::100007::214183 Membrane nanotube formation from endosomes by cooperating motors: physical regulation and quantitative characterization - Fellesløftet (2012/3860)::::OPT
+Bakke::Oddmund::152930::143684::100008::214183 Membrane nanotube formation from endosomes by cooperating motors: physical regulation and quantitative characterization - Fellesløftet (2012/3860)::::CFT
+Bakke::Oddmund::152930::143684::100009::214183 Membrane nanotube formation from endosomes by cooperating motors: physical regulation and quantitative characterization - Fellesløftet (2012/3860)::::CGE
+::PRO::::::::::::
+Progida::Cinzia::152930::144085::100000::239903 , A multidisiplinary approach to unravel the novel role of Rab proteins in cell migration::::
+Progida::Cinzia::152930::711121::100000::5760850 Novel roles og Rab proteins in cell migration - Kreftforeningen::::
+Progida::Cinzia::152930::000000::103999::Annum - Progida::::
+::BOYE::::::::::::
+Boye::Erik::152930::000000::103955::Annumskonto - BOYE::::BOYE
+Boye::Erik::152930::000500::123506::EMBIO-tilsetting Tine Wiese Abrahamsen::::BOYE
+::::::::::::::
+Brech::Andreas::152900::211697::IKKE::Prof II Andreas Brech::::
+::::::::::::::
+Edwards::Andy::152930::211949::IKKE::F.aman. II Andy Edwards, kun lønn::::
+::WE::::::::::::
+Eskild::Winnie::152940::000000::103963::Annum - WE::::WE
+::PØF::::::::::::
+Falnes::Pål::152940::144105::100000::240009 Functional characterization of a novel human protein methyltransferase family::Fra 01.06.2015::PØF
+Falnes::Pål::152940::711075::100000 DRIFT::Kreftforeningen, KF 422102-3751 - Functional studies of cancer relevant methylases, demethylases, and hydroxylases, SAMLET for hele prosjektet::DRIFT::
+Falnes::Pål::152940::711075::IKKE  130000::Kreftforeningen, KF 422102-3751 - Functional studies of cancer relevant methylases, demethylases, and hydroxylases, postdoc, NN fom 2014::fom 2014::PØF
+Falnes::Pål::152940::711075::IKKE  130000::Kreftforeningen, KF 422102-2011 - Functional studies of cancer relevant methylases, demethylases, and hydroxylases, fom 01.01.2013, podtdoc::fom 2015::PØF
+Falnes::Pål::152940::711075::IKKE  130000::Kreftforeningen, KF 422102-2011 - Functional studies of cancer relevant methylases, demethylases, and hydroxylases, fom 01.01.2016, podtdoc::fom 2016::PØF
+Falnes::Pål::152940::711075::IKKE  410000::Kreftforeningen, KF 422102-3751 - Functional studies of cancer relevant methylases, demethylases, and hydroxylases, , stip, KUN LØNN ::::PØF
+Falnes::Pål::152940::711075::IKKE 900000::Kreftforeningen, KF 422102- Functional studies of cancer relevant ..., tekn stilling fom 2015 _ KUN LØNN ::fom 2015::PØF
+Falnes::Pål::152940::720069::IKKE BRUK::Kreftforeningen, KF 422102-2011 - Functional studies of cancer relevant methylases, demethylases, and hydroxylases, , KUN DRIFT fom 01.01.2012::::PØF
+Falnes::Pål::152940::000000::103954::Annumskonto - PØF::::PØF
+Falnes::Pål::152940::000500::103733::MLS - Falnes (Kumar Aileni)::::PØF
+Falnes::Pål::152940::000500::103506::Utstyr Koomey/Falnes Q-Exactive Orbitrap MS::::PØF
+Falnes::Pål::152940::000000::103842::PES-midler - Falnes::::PØF
+::MF::::::::::::
+Fyhn::Marianne::152930::143543::100000::204939/F20 Neural processing and plasticity in cortical circuits of behaveing animals (2011/3274)::::MF
+Fyhn::Marianne::152930::143730::100000::217920 Experience-induced synaptic plasticity and network activity in visual cortex (2012/2702)::::MF
+Fyhn::Marianne::152930::190694::IKKE::Nasjonal forskerskole i nevrovitenskap - sommerkurs 2015::::MF
+Fyhn::Marianne::152930::000000::103971::Annum - Marianne Fyhn::::MF
+Fyhn::Marianne::152930::000500::403501::Likestillingsmidler  - Fyhn::::MF
+Fyhn::Marianne::152930::000500::103727::MLS - stipendiat::::MF
+Fyhn::Marianne::152930::000000::993806::CINPLA::::CINPLA
+Fyhn::Marianne::152930::000500::103508::Utstyr - Fyhn::::MF
+Fyhn::Marianne::152930::144344::100000::DIGIBRAIN;::::MF
+Fyhn::Marianne::152930::144316::100000::BRAINMATRIX::::MF
+Fyhn::Marianne::152930::144341::100000::COBRA::::MF
+::::::::::::::
+Vervaeke ::Koen::152930::143964::100000::231495 The role og disinhibition in sensory processing (2013/8215)::::
+::OSG::::::::::::
+Gabrielsen::Odd S.::152940::144084::100000::240768 - Novel Mechanisms of Gene Activation through Relief of SUMO-mediated Repression of transcription::::OSG
+Gabrielsen::Odd S.::152940::711109::100000::Kreftforeningen, KFpnr 419436-3911, Marit Ledsaak, fom 2011 ::::OSG
+Gabrielsen::Odd S.::152940::711122::Kun Lønn::KF 582838 Theoncoprotein c-Myb and the SUMO-system novel roles related to metastasis of breast and prostate cancer::KUN LØNN::OSG
+Gabrielsen::Odd S.::152940::000000::103964::Annum - OSG::::OSG
+Gabrielsen::Odd S.::152940::000500::123504::Embiomidler, Vilborg Matre: OSG-VM::::OSG
+::RE (Gabrielsengruppen)::::::::::::
+Eskeland::Ragnhild::152940::211978::100000::Tildeling fra Stamcellesenteret, OUS, 2015::::RE
+Eskeland::Ragnhild::152940::710147::100000::Wedel Jarlsbergs fond 2016::::RE
+Eskeland::Ragnhild::152940::143952::100000::NFR 231217 Unraveling the chromatome of specific loci,2013/8547::::RE
+Eskeland::Ragnhild::152940::710112::100000::Anders Jahres fond, (starten 2015 152940-000500-123524)::::RE
+Eskeland::Ragnhild::152940::710147::100000::Wedel-Jarlsberg::::RE
+Eskeland::Ragnhild::152940::711108::100000::3485238 Chromaatin organisation in cancer::::RE
+Eskeland::Ragnhild::152940::711108::KUN LØNN  105000::3485238 Chromaatin organisation in cancer::::RE
+Eskeland::Ragnhild::152940::720144::100000::Nansenfondene 2016::::RE
+Eskeland::Ragnhild::152940::000000::103987::Fosslie - drift::::RE
+Eskeland::Ragnhild::152940::144408::100000::262484 Chromatin loops and functions (ImageCRISPR)::::RE
+::::::::::::::
+Egner::Ingrid::152930::121354::100000::240493 In vivo study of satellite cell addition and function in
+hypertrophying skeletal muscle::::IE
+::JOG::::::::::::
+Gjerstad ::Johannes::152960::211481::120000::F.aman. Johannes Gjerstad::::JOG
+Gjerstad ::Johannes::152960::000000::103957::Annumskonto Gjerstad::::JOG
+::::::::::::::
+Gregers::Tone::152900::200945::100000::Videreutdanningstilbud som del av Kompetanse for kvalitet::::UDIR 2016
+::GAG::::::::::::
+Griffiths::Gareth::152930::144023::100000::Delprosjekt av 233849 på FAI, Hanne Winther-Larsens bruk av Fiskelab::::GAG
+Griffiths::Gareth::152930::690307:: AVSLUTTET::Beveilgning fra Deutsche forschungsgemeinschaft, DFG (2011/15125) - IKKE BRUK, AVSLUTTET::::GAG
+Griffiths::Gareth::152930::690392::100000::Beveilgning fra Deutsche forschungsgemeinschaft, DFG (fra 01.11.2014)::::GAG
+Griffiths::Gareth::152930::711091::100000::Kreftforeningen - 532973 - Nanobeads against cancer. Kun LØNN::::GAG
+Griffiths::Gareth::152930::711123::100000::Kreftforeningen 572586 Development of nanoparticle drug and siRNA therapy against cancer in cells and zebrafish::fra 2015::GAG
+Griffiths::Gareth::152930::000000::103969::Annumskonto Griffiths::::GAG
+Griffiths::Gareth::152930::000500::103501::Griffiths - Utstyr::::GAG
+Griffiths::Gareth::152930::000500::103717::CHAN - SFF-finalist::::GAG
+::GRI::::::::::::
+Grini::Paul::152960::143700::100000::214052/F20 Explaining the Roles and Epigenetic Mechanisms of Imprinting in Seed Development (2012/3989)::::GRI
+Grini/Eskeland::Paul::152960::000000::103734::Grini/Eskeland - MLS - Epigenetic konferanse - ESYMP2014/2016::103734::ESYMP2016
+Grini::Paul::152960::000000::103968::Annumskonto Grini::120031::GRI
+Grini::Paul::152960::000500::150108::Startpakke - Paul E. Grini::::GRI
+::::::::::::::
+Bramsiepe::Jonathan::152960::121356::100000::241023 Elucidating the role and regulatory networks of the putative DCAF protein WDR55 in plant reproductive development::::
+::GRU::::::::::::
+Grung::Merete::152930::000000::103993::Annumskonto - Grung::::
+::GUN::::::::::::
+Gundersen::Kristian::152930::144067::100000::240374 Mechanisms for a novel muscle memory::fra 01.03.2015::GUN
+Gundersen::Kristian::152930::000000::103913::Annumskonto GUN::::GUN
+Gundersen::Kristian::152930::000500::103721::GUN - Nansenfond::::GUN
+Gundersen::Kristian::152930::000000::103504::Utstyrstildeling::::GUN
+Gundersen::Kristian::152930::000000::103813::GUN - frikjøp universitetsstyret::::
+Bruusgaard::Jo::152930::421077::AVSLUTTET::Forsker II - avtale med Atlantis medisinske høgskole, Jo Bruusgaard::::
+Bruusgaard::Jo::152930::421118::100000::Forsker II - avtale med Norges Helsehøgskole Campus Kristiania, Jo Bruusgaard::::
+Bruusgaard::Jo::152930::000500::103758::Bruusgaard - Nansenfond::::
+Bruusgaard::Jo::152930::000000::104042::Annumskonto - Bruusgaard::::
+::TH::::::::::::
+Haug::Trude::152930::000000::103970::Trude Haug - annum::::TH
+::KLE::::::::::::
+Klein::Uwe::152940::000000::103914::Annumskonto - Klein, Uwe: KLE::::KLE
+::KOO::::::::::::
+Koomey::John M.::152960::143663::100000::NFR 214442 Glycan evolution in a bacterial model system of protein glycosylation (2012/2313)::::KOO
+Koomey::John M.::152960::000000::103940::Annumskonto - KOO::::KOO
+Koomey::John M.::152960::000500::103704::FUGE-midler drift/innkjøp: FUGE-KOO::::KOO
+Koomey::John M.::152960::000000::103976::Anonsen - driftsmidler postdoc - overskudd overføres til Koomey - annum::::KOO
+Koomey::John M.::152960::144283::403502::Forskerskole Infeksjonsbiologi Koomey, midlertidig konto::::KOO
+::TK::::::::::::
+Kristensen::Tom::152940::143966::100000::235062O/30 Biokjemisk kontaktmøte 2014::::TK
+Kristensen::Tom::152940::000000::103965::Annum - TK::::TK
+::PEK::::::::::::
+Kristiansen::Per Eugen::152940::000500::123516::EMBIO-stilling  PEK Per Eugen Kristiansen::::PEK
+::RL::::::::::::
+Lothe::Ragnhild::152900::210824::120000::Professor II Lothe Radiumhospitalet::::RL
+Lothe::Ragnhild::152900::000000::103956::Annumskonto - Lothe, Ragnhild: RL::::RL
+::Lefevre::::::::::::
+Lefevre::Sjannie::152930::144430::100000::261864 Re-Oxygenation resilience - the overlooked element of anooxic survival::::SL
+::LIND::::::::::::
+Lind::Guro::152900::000000::103972::Annum - Guro Lind::::LIND
+Lind::Guro::::::::Prof II avtale med CCB::::
+::LNK::::::::::::
+Linke::Dirk::152960::144110::100000::Structure-function relationship in bacterial adhesins - NFR 240483/F20::::BACTAD
+Linke::Dirk::152960::690377::100000::DFG Pseudomonas vaccines::::DFG
+Linke(Michalik, Marcin)::Dirk::152960::690377::100001::DFG Pseudomonas vaccines::::MCM
+Linke(Leo, Jack)::Dirk::152960::461222::100000::Elucidation of biological nanoparticle formation mechanism - VISTA::::LEO
+Linke::Dirk::152960::000500::103759::Linke - MLS::::LNK
+Linke::Dirk::152960::000000::103973::Linke - annum::::LNK
+Linke::Dirk::152960::000000::103851::Linke - midl prosjekt Project Structure-function relationship in bacterial adhesins
+::::LNK
+Linke::Dirk::152960::000000::103757::Forskningsstøtte/Digitalt liv - K. Jakobsen og D. Linke
+::::LNK
+Linke::Dirk::152960::144442::100000::Analysis of the lipopolysaccharide-mediated function of Salmonella adhesins in the
+presence of bacteriophages::::IS-DAAD
+Linke::Dirk::152960::651056::10000::Bacterial Adhesion Control through Surface TArgeted Regulation::EU::BacStar
+::LEO::::::::::::
+Leo::Jack::152960::144254::100000::Type VD secretion: a virulence factor of Pseudomones: NFR 249793::::LEO NFR
+::::::::::::::
+Micci:: Francesca::152940::::::Professor II avtale ::::
+::OM::::::::::::
+Myklebost::Ola::152900::211141::IKKE::Professor II Kreftbio IMBV, kun LØNN::::OM
+Myklebost::Ola::152900::000000::103943::Annumskonto - OM::::OM
+Myklebost::Ola::152900::000500::123514::Embio-midler: EMB-OM::::OM
+Myklebost::Ola::152900::000500::::Embio-midler: Post.doc tilsetting::::OM
+::NIL::::::::::::
+Nilsson::Göran::152930::143919::100000::231260/F20 Mechanisms of anoxic survival::::ANOX
+Nilsson::Göran::152930::190668::IKKE BRUK::234078 Behavioural and genomic characteristics of selected farmed salmon families related to Robudstness, welfare and performance, Havforskningsinstituttet::::NIL
+Nilsson::Göran::152930::190683::KUN LØNN::Parasite control of host behaviour: revealing a neurobiological::::NIL
+Nilsson::Göran::152930::690374::100000::Havförsurningens effekter på fiskars hjärnor och beteende::::SRC-BEHAVE
+Nilsson::Göran::152930::000000::103917::Annumskonto - NIL::::NIL
+Nilsson::Göran::152930::000500::103806::Nansenfond - Lefevre::::NIL
+Nilsson::Göran::152930::000000::103980::NIL - master::::NIL
+Nilsson::Göran::152930::000500::-::NIL - midl. Prosjekt FRIMEDBIO - BRUK PROSJEKT 143919::::NIL
+Nilsson::Göran::152930::000500::-::Øverlie - Behave genes midl konto - BRUK PROSJEKT 190668::::NIL
+Nilsson::Göran::152930::000500::103729::MLS - Nilsson - Mark Scott::::NIL
+::JNM::::::::::::
+Nissen-Meyer::Jon::152940::000000::103966::Annum-JNM::::JNM
+Nissen-Meyer::Jon::152940::000500::103751::MLS - Nissen-Meyer::::JNM
+Nissen-Meyer::Jon::152940::000500::::NCCO::::JNM
+::KP::::::::::::
+Prydz::Kristian::152930::211789::Avsluttet::Successful fertilisation, Høgskolen i Hedmark::::KP
+Prydz::Kristian::152930::212064::100000::Successful fertilisation, Høgskolen i Hedmark - erstatning for prosjekt 211789::::KP
+Prydz::Kristian::152930::000000::103967::Annum - KP::::KP
+::ROO::::::::::::
+Roos::Norbert::152930::000000::103919::Annumskonto Roos - ROO::::ROO
+Roos::Norbert::152930::000500::103502::Utstyrstildeling::::ROO
+::SAN::::::::::::
+Sand::Olav::152930::000000::103937::Annumskonto - SAN::::SAN
+Sand::Olav::152930::000000::103807::Tysseng - driftsmidler::::TYSSENG
+::ISA::::::::::::
+Sandlie::Inger::152940::143056::100000::179573/V40 Centre for Immune Regulation (CIR).::::ISA
+Sandlie::Inger::152940::143822::100000::220847 A novel targeted mucosal vacccine (GLOBVAC)::::ISA
+Sandlie::Inger::152940::144301::100000::144301_251037_Intracellular immunity_Sandlie::fra 2016::ISA
+Sandlie::Inger::152940::421046::IKKE::Samarbeidsavtale med Nextera::::ISA
+Sandlie::Inger::152940::711119::IKKE::Kreftforeningen::fra 2015::ISA
+Sandlie::Inger::152940::000000::103920::Annumskonto - ISA::::ISA
+Sandlie::Inger::152940::000500::103728::MLS - Sandlie::::ISA
+Sandlie::Inger::152940::000500::103709::CIR-SFF, intern tildeling::::ISA
+Sandlie::Inger::152940::000500::103810::Innovasjonsmilder 2017 fra UiO - AlbuAbs: Design of antibodies fused to domain III of albumin for altered FcRn binding properties and tailored pharmacokinetics y::::ISA
+::JTA::::::::::::
+Andersen::Jan Terje::::::::::::
+::KISA::::::::::::
+Sandvig::Kirsten::152930::211201::120000::Professor II Kirsten Sandvig/ IMBV::::KISA
+Sandvig::Kirsten::152930::000000::103945::Annumskonto - Kirsen Sandvig-KISA::::KISA
+Sandvig::Kirsten::152930::000000::103848::Innovasjonsmilder 2015 fra UiO - Proteins in urinary exosomes as biomarkers for prostate cancer::::KISA
+::FAHRI::::::::::::
+Saatcioglu::Fahri::152940::144073::100000::Optimaliseringsprosjektet, ::fra 2015::FAHRI
+Saatcioglu::Fahri::152940::461352::100000::UNIFOR - div fond (ikke A. Jahre), i 2016: Stiftelsen til fremme av kreftforskning::::
+Saatcioglu::Fahri::152940::711143::100000::Kreftforeningen - 182635: Androgen action and prostate cancer - Identification of
+biomarkers and therapeutic targets::fra 1.12.16::FAHRI
+Saatcioglu::Fahri::152940::710113::100000::Anders Jahres fond 2015::::
+Saatcioglu::Fahri::152940::711110::IKKE::Kreftforeningen - 419204 -SAMLET::::
+Saatcioglu::Fahri::152940::711110::100000::Kreftforeningen - 419204 -DRIFT::::FAHRI
+Saatcioglu::Fahri::152940::711110::KUN  LØNN 990000 ::Kreftforeningen - 419204 - Molecular mechanisms of androgen action and prostate carcnogenesis, Su Qu 2014, KUN LØNN::::FAHRI
+Saatcioglu::Fahri::152940::711110::KUN LØNN 130000::Kreftforeningen - 419204 -Margrethe Storm, KUN LØNN::::FAHRI
+Saatcioglu::Fahri::152940::711110::KUN LØNN  130000::Kreftforeningen - 419204 - Martina Tesikova, KUN LØNN::::FAHRI
+Saatcioglu::Fahri::152940::711110::KUN LØNN  130000::Kreftforeningen - 419204 - Postdoc Nora Pällmann fom 12.05.2014 KUN LØNN::NY 2014::FAHRI
+Saatcioglu::Fahri::152940::711110::KUN LØNN  130000::Kreftforeningen - 419204 - Postdoc Ny 2016 KUN LØNN::Ny 2015::FAHRI
+Saatcioglu::Fahri::152940::000000::103804::Yogic breathing exercises as an adjunct therapy for cancer - A randomized pilot study.  Kreftforeningen::::FAHRI
+Saatcioglu::Fahri::152940::690245::120000::Yogic breathing exercises as an adjunct therapy for cancer - A randomized controlled trial of the Yogig Science og breath - Sveits::::FAHRI
+Saatcioglu::Fahri::152940::000500::103702::Stimuleringsmidler Fahri fra biotek::::FAHRI
+Saatcioglu::Fahri::152940::000000::103706::MLS - konferanse januar 2012, spør Mari::::
+Saatcioglu::Fahri::152940::000000::103946::Annumskonto - Fahri::::FAHRI
+Saatcioglu::Fahri::152940::000500::IKKE::Unifor - Anders Jahres fond Fahri::::FAHRI
+Saatcioglu::Fahri::152940::000500::103726::Fahri - UNIFOR Kjøpmann Einar Unsgaard og hustru Kutty Unsgaards legat::::FAHRI
+Saatcioglu::Fahri::152940::000500::703803::MLS - Fahri::::FAHRI
+::::::::IKKE BRUK::::::FAHRI 
+::THIEDE::::::::::::
+Thiede::Bernd::152940::711124::100000::Prostate Cancer Proteomics, DNK: 4514636-2013::::
+Thiede::Bernd::152940::000000::103997::Annum - Thiede - Ikke lenger I bruk: 152940-0-103986::::
+Thiede::Bernd::152940::000500::123508::Thiede - MLS stip::::
+::FAW::::::::::::
+Weltzien::Finn Arne::152930::000000::103978::Annumskonto - Finn Arne Weltzien::::FAW
+::RAA::::::::::::
+Aalen::Reidunn::152960::143544::100000::IDA-NFR  204756/F20 Dissection and comparison of cell separation processes in plants (2011/3672)::::RAA
+Aalen::Reidunn::152960::143659::IKKE::216853 Norsk-tysk forskningssamarbeid, DAAD, Identification of novel peptide ligand-receptor pairs in plants::::RAA
+Aalen::Reidunn::152960::143687::AVSLUTTET::213785 Partners and networks - peptide ligand-receptor signaling in cell seapration processes  in plants (2012/2141)::::RAA
+Aalen::Reidunn::152960::144186::100000::255976 Systems analysis of peptide-mediated cell-cell communication in the plant root by in situ sequencing, ERA-SYsAPP -(2015/14169)::::RAA
+Veiseth::Silje Veie::152960::143789::AVSLUTTET::222301 Exploring the epigenetic mechnisms of stress adaption in plants::::
+Aalen::Reidunn::152960::000000::103923::Annumskonto - RAA::::RAA
+Aalen::Reidunn::152960::000500::703804::MLS - Aalen::::RAA
+::::::::::::::
+Butenko::Melinka::152960::143790::IKKE::225299 Characterisation of novel peptide ligand-receptor complexes in plants - DAAD-programmet 2013/14 ::::
+Butenko::Melinka::152960::144030::KUN LØNN::Fellesløftet, kun lønn Butenko::::
+Butenko::Melinka::152960::000500::103763::Butenko - Fellesløftet drift::::
+Butenko::Melinka::152960::000000::103986::Annumskonto - Butenko::::BUT
+::::::::::::::
+::Adm.::152900::000000::103755::Restlønn stipendiater::::
+::Adm.::152900::000000::913601::Drift administrasjon/kontorhold::::ADM
+::Adm.::152900::000000::914001::Infrastuktur/utstyr - kostnader for hele IBV::::INFRA
+::Adm.::152900::000000::914002::Vedlikehold service::::VEDL
+::Adm.::152900::000000::914003::Representasjon::::REPR
+::Adm.::152900::000500::803812::Lederprogram postdoc::::Lederprog
+::Adm.::152900::000000::914005::Faglige og sosiale tiltak + Bachelorprogrammet::::FAGSOS
+::Adm.::152900::000000::914006::Generell drift - instituttet::::DRIFT
+::::152900::000000::403801::Likestillingsmidler::::LIKEST
+::::152900::000000::914007::Phd Forum 2017::::Phd Forum
+::::::::::::::
+::Fellesavd.::152900::000000::913700::Sentrallageret LAG (Steinar Mortensen)::::LAG
+::Fellesavd.::152900::000500::103603::DYR - utstyr::::DYR-utstyr
+::Fellesavd.::152900::000000::913916::Dyreavdeling, DYR; Akvarieavdelingen, AKV (Morten Bronndal)::::DYR
+::::152900::000000::913908::IMAGING - lab v/ Paul Grini::::IMAGING
+::Fellesavd.::152900::000000::913808::MOLB laboratorium                                 ::::MOLB
+::Fellesavd.::152900::000000::913809::FYS-LAB       CEL-felleslab v/Olav Sand                         ::::FYS-LAB
+::Fellesavd.::152900::000000::913810::CEL-LAB      Cellelaboratorium driftskostnader,  KP, OSG, WE, PØF           ::::CEL-LAB
+::Fellesavd.::152900::000000::913805::ARA-Fyto::::ARA-FYTO
+::Fellesavd.::152900::000000::913806::ARA-LAB (Reidun Aalen)::::ARA-LAB
+::Fellesavd.::152900::000000::913807::GEN-MEDIE (Reidun Aalen)::::GEN-MEDIE
+::Fellesavd.::152900::000000::914101::IT-avdeling (Torbjørn Severinsen)::::IT
+::::::::::::::
+::Studieseksjonen::152900::000000::609009::MBV1010               Cellebiologi og genetikk::::MBV1010 
+::Studieseksjonen::152900::000000::609024::MBV1020               Fysiologi::::MBV1020
+::Studieseksjonen::152900::000000::609011::MBV1050               Biokjemi::::MBV1030
+::Studieseksjonen::152900::000000::609012::MBV2010               Molekylærbiologi::::MBV2010
+::Studieseksjonen::152900::000000::609013::MBV2020               Labkurs i biokjemi og mol.biologi::::MBV2020
+::Studieseksjonen::152900::000000::609014::MBV2050               Biokjemi II::::MBV2050
+::Studieseksjonen::152900::000000::609015::MBV3010               Videregående cellebiologi::::MBV3010
+::Studieseksjonen::152900::000000::609016::MBV3020               Molekylær genetikk og utv.biologi::::MBV3020
+::Studieseksjonen::152900::000000::609017::MBV3030               Proteinenes biokjemi::::MBV3030
+::Studieseksjonen::152900::000000::609018::MBV3040               Nukleinsyrenes biokjemi::::MBV3040
+::Studieseksjonen::152900::000000::609019::MBV3050               Humanfysiologi::::MBV3050
+::Studieseksjonen::152900::000000::609020::MBV3060               Generell mikrobiologi::::MBV3060 
+::Studieseksjonen::152900::000000::609021::MBV3070               Bioinformatikk::::MBV3070
+::Studieseksjonen::152900::000000::609025::MBV-KJM 1030 ::::MBV3070
+::Studieseksjonen::152900::000000::629001::MBV4010               Arb.metoder i mol.biologi /biokj.I::::MBV4010
+::Studieseksjonen::152900::000000::629002::MBV4020               Arb.metoder i mol.biologi /biokj.II::::MBV4020
+::Studieseksjonen::152900::000000::629003::MBV4030               Cellebiologiske arbeidsmetoder::::MBV4030
+::Studieseksjonen::152900::000000::629004::MBV4110/9110      Elektronmikroskopi::::MBV4110 
+::Studieseksjonen::152900::000000::629005::MBV4120/9120      Eukaryote gener og genomer::::MBV4120
+::Studieseksjonen::152900::000000::629006::MBV4130 /9130     Prokaryotenes biologi::::MBV4130 
+::Studieseksjonen::152900::000000::629007::MBV4140               Anvendt bioinformatikk::::MBV4140
+::Studieseksjonen::152900::000000::629008::MBV4150/9150      Molecular biology of microbes - host interactions::::MBV4150 
+::Studieseksjonen::152900::000000::629009::MBV4210/9210      Fysikalsk biokjemi::::MBV4210
+::Studieseksjonen::152900::000000::629010::MBV4230/9230      Eukaryote transkripsjonfaktorer - strukturer, samspill, regulering::::MBV4230
+::Studieseksjonen::152900::000000::629011::MBV4240/9240        Biokjemiske mekanismeri intracellulær transport::::MBV4240 
+::Studieseksjonen::152900::000000::629012::MBV4250/9250      Generell immunologi og immunologiske teknikker::::MBV4250
+::Studieseksjonen::152900::000000::629013::MBV4260/9260      Avansert immunologi::::MBV4260
+::Studieseksjonen::152900::190630::629014::MBV4270 /9270     Avansert glykobiologi - BIOSTRUCT ::::MBV4270/9270
+::Studieseksjonen::152900::000000::629015::MBV4310/9310      Komparativ og økologisk fysiologi::::MBV4310
+::Studieseksjonen::152900::000000::629016::MBV4320/9320      Avansert fysiologi og cellebiologi::::MBV4320
+::Studieseksjonen::152900::000000::629017::MBV4330/9340      Forsøksdyrlære::::MBV4330
+::Studieseksjonen::152900::000000::629018::MBV4340/9340      Avansert nevrobiologi::::MBV4340
+::Studieseksjonen::152900::000000::629019::MBV 4160 - Advanced Cancer Biology::::MBV4160
+::Studieseksjonen::152900::000000::629020::MBV 4410/9410 - Bioinformatics for Molecular Biology::::MBV4410
+::Studieseksjonen::152900::000000::629021::MBV3090 - Forskningslitteratur i kreftbiolgi::::MBV3090
+::Studieseksjonen::152900::000000::629022::MBV4910 - International Genetically Engineered Machine iGEM::::MBV4910
+::Studieseksjonen::152900::000000::629024::MBV9220 - Protein Crystal Spectroscopy- Biostruct::::MBV9220
+::Studieseksjonen::152900::000000::629025::MBV - Spesialpensum sensur Master og PhD::::
+::Studieseksjonen::152900::000000::629026::MBV - Studiestart bachelor::::
+::Studieseksjonen::152900::000000::629027::MBV - Programråd og undervisningsutvalg::::
+::Studieseksjonen::152900::000000::629028::MBV - Tilsynssensor::::
+::Studieseksjonen::152900::000000::629029::MBV - Studieseksjonen::::
+::Studieseksjonen::152900::000000::629030::MBV - Mastereksamen::::
+::Studieseksjonen::152900::000500::669001::Skolelab - Utviklingsmidler KFK::::
+::Studieseksjonen::152900::000500::669002::Skolelab - Drift KFK::::
+::Studieseksjonen::152900::000500::669003::Skolelab - Hersleb, skolesamarbeid::::
+::Studieseksjonen::152900::000500::669004::Studiekvalitetsmidler -Pilot::::
+::Studieseksjonen::152900::000500::669006::Studiekvalitetsmidler 2016_Lokaler undervisning- ny programmeringslab. H-2017::::Studiekvalitetsmidler 2016
+::Studieseksjonen::152900::000500::669007::Studiekvalitetsmidler 2016_CSE - 4 Gruppelærere::::Studiekvalitetsmidler 2016
+::Studieseksjonen::152900::000500::669008::Studiekvalitetsmidler 2017::::Studiekvalitetsmidler 2017
+::Studieseksjonen::152900::000000::669008::BIOS1100 - Grunnkurs i programmering for biovitenskap::::BIOS1100
+::Studieseksjonen::152900::000000::669009::BIOS1110 - Celle- og molekylær-biologi::::BIOS1110
+::Studieseksjonen::152900::000000::669010::BIOS1130 - Biokjemi 1::::BIOS1130
+::Studieseksjonen::152900::000000::669011::BIOS1120 - Fysiologi::::BIOS1120
+::Studieseksjonen::152900::000000::669012::BIOS1150 - Biologisk mangfold::::BIOS1150
+::Studieseksjonen::152900::000000::669013::BIOS1140 - Evolusjon og genetikk ::::BIOS1140
+::Studieseksjonen::152900::000000::669014::BIOS2100 - Generell økologi::::BIOS2100
+::Studieseksjonen::152900::000000::669015::BIOS2200 - Botanisk mangfold::::BIOS2200
+::Studieseksjonen::152900::000000::669016::BIOS2210 - Terrestrisk zoologi::::BIOS2210
+::Studieseksjonen::152900::000000::669017::BIOS2220 - Akvatisk biomangfold::::BIOS2220
+::Studieseksjonen::152900::000000::669018::BIO2900 - Molekylærbiologi::::BIO2900
+::Studieseksjonen::152900::000000::669019::BIOS3000 - Design og analyse av biologiske studier::::BIOS3000
+::Studieseksjonen::152900::000000::669020::BOS3010 - Bioinformatikk::::BOS3010
+::Studieseksjonen::152900::000000::669021::BIOS3100 - Evolusjon ::::BIOS3100
+::Studieseksjonen::152900::000000::669022::BIOS3300 - Marinbiologi::::BIOS3300
+::Studieseksjonen::152900::000000::669023::BIOS3310 - Biogeokjemi ::::BIOS3310
+::Studieseksjonen::152900::000000::669024::BIOS3600 - Genetikk og utviklingsbiologi::::BIOS3600
+::Studieseksjonen::152900::000000::669025::BIOS3610 - Plantevitenskap::::BIOS3610
+::Studieseksjonen::152900::000000::669026::BIOS3700 - Cellebiologi 2::::BIOS3700
+::Studieseksjonen::152900::000000::669027::BIOS3800 - Humanfysiologi::::BIOS3800
+::Studieseksjonen::152900::000000::669028::BIOS3900 - Biokjemi 2::::BIOS3900
+::Studieseksjonen::152900::000000::669029::BIOS3910 - Mikrobiologi og mykologi::::BIOS3910
+::Studieseksjonen::152900::000000::669030::BIOS3920 - Kreftbiologi::::BIOS3920
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::152900::000000::990030::Databriller::::Databriller
+::::152900::000000::914010::Julebord::::Julebord
+::::152900::000000::803807::Omorganiseringsmidler - MNF::::Omorg
+::::152900::000000::649008::Biologi-OL::::
+::::152970::000000::993801::Seksjon for akvatisk biologi::::AQUA
+::::152960::000000::993802::Seksjon for evolusjon og organismebiologi::::EVOGENE
+::::152940::000000::993803::Seksjon for biokljemi og molekylærbiologi::::BMB
+::::152930::000000::993804::Seksjon for fysiologi og cellebiologi::::FYSCELL
+::::152900::000000::993808::Seksjon for infrastruktur::::
+::::152950::000000::103752::Anagaw Meshesha - drift::::
+::::152950::000500::103744::Eli Rueness - Nansenfond::::
+::::152960::000000::993805::CIME - endringsmiljø::::
+::::152930::000000::993806::CINPLA - endringsmiljø::::
+::::152950::000500::103754::Anne Runemark - Lund::::
+::::152900::000000::803819::Biofagrådet::::
+::::152900::000500::103603::DYR - utstyr::::
+::::152950::000000::103981::Lee Hsiang Liow - annum::::
+::::152950::000500::103764::Fabrice Eroukhmanoff - drift MNF::::FABRICE
+::::152950::000000::103985::Geir Ottersen::::Ottersen
+::::152960::000000::803804::EVOGENE-MEDIE::::
+::::152940::000000::103846:: - midl Trung - skal til 123508::::
+::::152960::000000::993901::Realtime pcr::::
+::::152950::000000::103990::CEES Langangen og Vindenes  Årets  paper(2015) IBV - Pengepremie::::Årets paper (2015) IBV
+::::152940::190630::649009::Biostruct 2016 Bie Ekblad::::NODE
+Kristiansen::Per Eugen::152940::000000::914023::INVEN2 - Drift og refusjon - P.E.Kristiansen::::PEK
+Instituttet::felles::152900::000000::914009::Refusjon fra NAV ABETAL- ikke foreldre og sykepenger::::NAV
+Star::Bastian::152950::000000::103998::Annum - Star Bastian::::BS
+::::152900::000000::103858::Midlertidig prosjektkonto i påvente av oppretting av eksternt(e) prosjekt::::
+Instituttet::::152900::000000::103996::Steinbiten - Akvarieforening::::
+::::152930::000500::103710::Mads Bengtsen - UNIFOR::::Bengtsen
+ABDULLAH::MOHAMED::152900::000000::104050::Abdullah, Mohamed::::
+::::152900::000000::803801::EMBL Day in Norway::::EMBL
+::::::::::::::
+Internprosjekter - leiested::::::::::::::
+Leiested::::152932::010078::913909::Leiested - Imaging Platform (IBV-IMAG) NorMIC::::
+Leiested::::152932::010078::913923::Leiested - Imaging Platform (IBV-IMAG)  NORMIC - utstyr::::
+Leiested::::152951::010079::913910::Leiested - Norwegian Sequencing Center (NSC)::::
+Leiested::::152931::010080::913917::Leiested - Electron Microscopy Laboratory (IBV-EMLAB) ::::
+Leiested::::152941::010081::913907::Leiested - Proteomics Laboratory (IBV-PROTEO) ::::
+Leiested::::152941::010081::913923::Leiested - Proteomics Laboratory (IBV-PROTEO) - utstyr::::
+Leiested::::152970::010082::913921::Leiested - AQUA Lab-Årsabonnement::::AQUA-leie
+Leiested::::152970::010082::913923::Leiested - AQUA Utstyrsinvesteringer::::AQUA-leie
+Leiested::::152970::010082::913925::Leiested - AQUA drift, vedlikehold/service::::AQUA-leie
+Leiested::::152940::010083::913921::Leiested - BMB Lab-Årsabonnement::::BMB-leie
+Leiested::::152940::010083::913923::Leiested - BMB Utstyrsinvesteringer::::BMB-leie
+Leiested::::152940::010083::913925::Leiested - BMB drift, vedlikehold/service::::BMB-leie
+Leiested::::152950::010084::913921::Leiested - CEES Lab-Årsabonnement::::CEES-leie
+Leiested::::152950::010084::913923::Leiested - CEES Utstyrsinvesteringer::::CEES-leie
+Leiested::::152950::010084::913925::Leiested - CEES  drift, vedlikehold/service::::CEES-leie
+Leiested::::152960::010085::913921::Leiested - EVOGENE Lab-Årsabonnement::::EVOGENE-leie
+Leiested::::152960::010085::913923::Leiested - EVOGENE Utstyrsinvesteringer::::EVOGENE-leie
+Leiested::::152960::010085::913925::Leiested - EVOGENE  drift, vedlikehold/service::::EVOGENE-leie
+Leiested::::152930::010086::913921::Leiested - FYSCELL Lab-Årsabonnement::::FYSCELL-leie
+Leiested::::152930::010086::913923::Leiested - FYSCELL Utstyrsinvesteringer::::FYSCELL-leie
+Leiested::::152930::010086::913925::Leiested - FYSCELL drift, vedlikehold/service::::FYSCELL-leie
+Leiested::::152900::010093::913921::Instituttets leiested Lab-Årsabonnement::::IBV-LEI
+Leiested::::152900::010093::913923::Instituttets leiested Utstyrsinvesteringer::::IBV-LEI
+Leiested::::152900::010093::913925::Instituttets leiested Drift, vedlikehold/servicekontrakter::::IBV-LEI
+Leiested::::152933::010094::913916::Leiested -TERRA::::inVIVO
+Leiested::::152933::010094::913923::Leiested -TERRA - utstyr::::inVIVO
+Leiested::::152933::010095::913922::Leiested - ECO::::inVIVO
+Leiested::::152933::010096::913922::Leiested - H2O::::inVIVO
+Leiested::::152961::010098::913805::GMIO::::
+Leiested::::152961::010099::913901::GMOfri::::
+Leiested::::152970::010102::913923::Isotop Lab::::Isotop-lab
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
+::::::::::::::
