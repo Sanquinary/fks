@@ -1,4 +1,4 @@
-# fks
+# fks - finn kontostreng
 **Finn kontostrenger på IBV med dette verktøyet.**
 
 Dette er et verktøy laget for Universitetet i Oslo. Hensikten med verktøyet er å gjøre det lettere for brukeren å finne 'kontostrenger' internt innad UiO.
