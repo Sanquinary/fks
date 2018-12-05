@@ -16,6 +16,7 @@ table {
 
 .table-responsive {
     max-height: 65vh !important;
+    overflow-y: scroll !important;
 }
 
 th, td {
