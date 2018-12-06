@@ -15,16 +15,11 @@
 
 		<!-- CSS -->
 		<link href="assets/css/style.css" rel="stylesheet">
-	    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-	    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Quicksand" rel="stylesheet">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
 		<!-- Scripts -->
 	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
-	    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="unknown"></script>
-	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 	</head>
 	<body>
 	  	<div class="container">
@@ -86,18 +81,6 @@
 		       			table_data += '<td>'+cell_data[cell_count]+'</td>';
 		     		}
 
-		     		//generer tabell med table header
-		     		//for(var cell_count=0; cell_count<8; cell_count++) {
-		     		//	//på rad 1, lag thead
-		      		//	if(count === 1) {
-		       		//		table_data += '<th>'+cell_data[cell_count]+'</th>';
-		      		//	}
-		      		//	//alt annet som ikke er 1 (og ikke 0, fordi vi startet på 1) lag en table default
-		      		//	else {
-		       		//		table_data += '<td>'+cell_data[cell_count]+'</td>';
-		      		//	}
-		     		//}
-
 		     		table_data += '</tr>';
 		    	}
 	    		table_data += '</table>';
@@ -105,8 +88,6 @@
 	    		$('#kontostreng_table').html(table_data);
 	    		$('#oppforinger_totalt').append("<b>" + count + "</b>");
 	    		
-
-
 	   		}	
 	  	});
 
@@ -124,7 +105,7 @@
   		$(function () {
 		    $('#utskrift').click(function () {
 		        var pageTitle = 'Kontostreng tabell',
-		            stylesheet = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css',
+		            stylesheet = 'assets/css/bootstrap.min.css',
 		            stylesheet2 = 'assets/css/style.css'
 		            win = window.open('', 'Print', 'width=990,height=590');
 		        win.document.write('<html><head><title>' + pageTitle + '</title>' +
