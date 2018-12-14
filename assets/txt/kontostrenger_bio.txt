@@ -87,6 +87,7 @@ ERGON::TORBJØRN HÅKAN::152950::000000::150104::Startpakke - Ergon::START-ERGON
 ERGON::TORBJØRN HÅKAN::152950::SLUTT::103814::IKKE I BRUK Drift - ARESKOUG VERONIKA::SLUTT::
 ERIKSEN::AUD BERGLEN::152960::650113::SLUTT, Venter på oppgjør::EU 315404 WeevilSTOP - Development of a cost-effective and sustainable insecticide-free plant protection method, eliminating widespread catastrophic damage in the forestry caused by the pine weevil Hylobius abietis::WeevilSTOP, WP 1::EU
 ERIKSEN::AUD BERGLEN::152970::000000::103944::Annumskonto Aud Berglen Eriksen::ERI::
+EROUKHMANOFF::FABRICE::152950::144744::100000::297137 - Investigating the Architecture of a Rapid Evolutionary Response - ERC Consolidator Grant 2019::PES ARCHIREVOL::NFR
 FREDRIKSEN::STEIN::152970::000000::103901::Annum Stein Fredriksen (inkl. F.J.Walvigs stiftelse, tildeling 2015)::FRE::
 FREDRIKSEN::STEIN::152970::461353::100000::Kelp export: fuel for adjacent communities in changing arctic ecosystems? NFR 255085/NIVA::KELPEX::NIVA (NFR)
 FREDRIKSEN::STEIN::152970::421159::100000::MACROSEA - A knowledge platform for industrial macroalgae - SINTEF::MACROSEA::SINTEF Fiskeri og havbruk AS (NFR)
@@ -151,6 +152,7 @@ JAKOBSEN::KJETILL::152950::143935::SLUTT::230433/E20 - Novel techniques for seab
 JAKOBSEN::KJETILL::152950::143935::120333::230433/E20 - Novel techniques for seabed monitoring of CO2 leakage and monitoring campaigns based on reservoir, cap rock and overburden migration models - samarbeidsavtale::FENCO - avtale::NFR
 JAKOBSEN::KJETILL::152950::144337::100000::251076/F20 Evolutionary and functional importance of simple repeats in the genome::REPEAT drift::NFR (fellesløft 3/Toppforsk)
 JAKOBSEN::KJETILL::152950::430372::100000::Test av ny prosedyre for tarmbakterieanalyse::Tarmbakterier drift::Biko-Me AS
+JAKOBSEN::KJETILL::152950::430427::100000::Testing av Bacterial Composition in Complex Communities::Petomics::EderaGen AS
 JAKOBSEN::KJETILL::152950::720145::100000::Genetisk bakgrunn hos ulv Canis lupus i Norge og Skandinavia, gave fra NORSKOG::Ulv gave::NORSKOG
 JAKOBSEN::KJETILL::152950::000000::103904::Annum Kjetill Jakobsen::KSJ::
 JAKOBSEN::KJETILL::152950::SLUTT::103601::IKKE I BRUK DNA-sekvensiering Kjetill Jakobsen::SLUTT::
@@ -163,6 +165,7 @@ JAKOBSEN::KJETILL::152950::SLUTT::103604::IKKE I BRUK KSJ - MLS Digitalt Liv::SL
 JENTOFT::SISSEL::152950::190649::100000::Assessment of long-term effects of oil exposure on early life stages of Atlantic haddock using state-of -the art genomics tools in combination with fitness observations - NFR 234367/E40::Haddock::Havforskningsinstituttet
 JENTOFT::SISSEL::152950::190650::SLUTT::Adaptation or plasticity as response to large scale translocations and harvesting over a climatic gradient in the marine ecosystem? - NFR 234328::WRASSE::Univ. i Agder
 JENTOFT::SISSEL::152950::190774::100000::280453/E40 ECOGENOME A multispecies, multitrophic genomics approach to coastal ecosystem structure::ECOGENOME::HI/NFR
+JENTOFT::SISSEL::152950::690524::100000::Entwicklung DNA-basierter Verfahren für die Identifizierung von Fischen und Fischereiprodukten ::Tuna species::Johann Heinrich von Thünen-Institute, Tyskland
 JENTOFT::SISSEL::152950::000000::103982::Annum Sissel Jentoft::Jentoft::
 KAARTVEDT::STEIN::152970::000000::103907::Annum Stein Kaartvedt::KÅR::
 KARLSEN::HANS ERIK::152970::000500::103730::Disponering av frikjøp vedr. CollPen - NFR 204229/F20 og Oppdrag Tobisprosjekt::HEK::
@@ -196,7 +199,7 @@ KAUSERUD::HÅVARD::152960::190733::100000::243663 BioMim_Advancing biomass techn
 KAUSERUD::HÅVARD::152960::000000::104048::Estensmo  - KD-stipendiat::ESTENSMO::
 KAUSERUD::HÅVARD::152960::651077::1000000::MycoIndoor - Deciphering the mycobiome of indoor
 environments by high-throughput sequencing::::
-KLAVENESS::DAG::152970::000000::103906::Annum Dag Klaveness::KLA::
+KLAVENESS::DAG::152970::000000::103906::Annum Dag Klaveness, emeritus::KLA::
 KNUTSEN::HALVOR::152950::211937::100000::Spisskompetanse inom marin och akvatisk ekologi och genomforskning for uthållig förvaltning av fisk og skaldjur i Skagerrak-Kattegat-Øresund - MarGEN - INTERREG ØKS/HI::MarGEN::INTERREG/HI
 LAMPE::HELENE::152950::000000::103908::Annum Helene Lampe::HML::
 LANGANGEN::ØYSTEIN::152950::144288::100000::Long-term effects of local scale OIL pollution on fish Populations and COMmunities in the Lofonten-Barents Sea system, NFR 255487::OILCOM::
@@ -212,7 +215,7 @@ LEINAAS::HANS PETTER::152970::000000::103909::Annum Hans Petter Leinaas::LEI::
 LEINAAS::HANS PETTER::152970::SLUTT::103712::IKKE I BRUK - Sengupta::SLUTT::
 LEINAAS::HANS PETTER::152970::000000::103952::Terrestrisk toksikologi::LEI::
 Fyhn::Marianne::152930::000500::103737::Fyhn Toppforsk Fellesløfte Brainmatrix 2017::MF::
-LIOW::LEE HSIANG::152950::143912::100000::NFR 235073/F20 Phanerozoic diversification: linking observation and process::NFR/ERC Liow::NFR
+LIOW::LEE HSIANG::152950::143912::SLUTT::NFR 235073/F20 Phanerozoic diversification: linking observation and process::NFR/ERC Liow::NFR
 LOGARES::RAMIRO::152960::144100::100000::NFR 240904 Assembling a Micro Eco-System: Unveiling the network of ecological interactions in a marine microbial community using Next-Generation omics::Micro Eco-system::NFR
 MATSCHINER::MICHAEL::152950::144660::890000::NFR 275869 The role of hybridization in vertebrate speciation - FRIPRO Mobilitetsstipend::Mobility Matschiner, lønn::NFR
 MATSCHINER::MICHAEL::152950::144660::100000::NFR 275869 The role of hybridization in vertebrate speciation - FRIPRO Mobilitetsstipend::Mobility Matschiner, drift::NFR
@@ -295,7 +298,7 @@ STENSETH::NILS CHR.::152950::480111::900000::Smågnagerdrift::Smågnagerdrift::N
 STENSETH::NILS CHR.::152950::000500::103859::NorMER - gjenstående midler etter prosjektavslutning 610314 ::NorMER::
 STENSETH::NILS CHR.::152950::610345::SLUTT::Workshops on the cumulative effects of the anthropogenic imprint on the Seas of Norden::Workshops SoN::NordForsk
 STENSETH::NILS CHR.::152950::690448::100000::Saving the endangered Bale monkey through protection of montane bamboo in the southern Ethiopian Highlands - Addisu Mekonnen Kassie::Bale Monkey - PBNF::Prins Bernhard Nature Fund PBNF
-STENSETH::NILS CHR.::152950::690468::100000::Foresight Workshop CoDReG - Beyond climate change research in the Nordic Seas - Connecting the Dots to Reveal the Gaps::CoDReG drift::European Marine Research Network
+STENSETH::NILS CHR.::152950::690468::SLUTT::Foresight Workshop CoDReG - Beyond climate change research in the Nordic Seas - Connecting the Dots to Reveal the Gaps::CoDReG drift::European Marine Research Network
 STENSETH::NILS CHR.::152950::690473::100000::Plague Ecosystem Resilience to Intervention (PERI). A One Health Approach. NOCC::PERI::University of Minnesota
 STENSETH::NILS CHR.::152950::690478::SLUTT::Studies on the cryptic mammal species of Africa v. Anagaw Atickem Meshesha::Rufford::The Rufford Foundation UK
 STENSETH::NILS CHR.::152950::690485::100000::Future Earth initiative on pastoralism: a global comparative research program - IUBS::Pastoralism IUBS ::IUBS Paris
@@ -521,6 +524,7 @@ Griffiths::Gareth::152930::000000::103969::Annumskonto Griffiths::GAG::
 Griffiths::Gareth::152930::000500::103501::Griffiths - Utstyr::GAG::
 Griffiths::Gareth::152930::000500::103717::CHAN - SFF-finalist::GAG::
 Griffiths::Gareth::152930::144631::100000::273319 - Drug targeting for improved treatment of multi drug resistent tuberculosis::GAG::
+Griffiths::Gareth::152930::144642::100000::275873 Development of nanoparticle drug carriers against::GAG::NFR
 Grini::Paul::152960::143700::100000::214052/F20 Explaining the Roles and Epigenetic Mechanisms of Imprinting in Seed Development (2012/3989)::GRI::
 Grini/Eskeland::Paul::152960::000000::103734::Grini/Eskeland - MLS - Epigenetic konferanse - ESYMP2014/2016::ESYMP2016::
 Grini::Paul::152960::000000::103968::Annumskonto Grini::GRI::
@@ -839,7 +843,7 @@ Maurice::Sundy::152960::000500::123503::Reisestøtte Sundy Maurice 2018::MAURICE
 Rowe::Melissah::152950::000000::104051::annum - Melissah Rowe::Rowe::
 Gusarova ::Galina::152950::000000::104080::Drift av masterstudenter Pernille Meyer og Lilja Steinthorsdottir 2017-2019::Gusrova::
 Winter::Anna-Marie::152950::000000::104059::Kristine Bonnevie reisestipend 2018 - Anna-Marie Winter::Winter::
-Sandlie::Inger::152940::000000::103815::Kommersialiseringsinntekter fra Tillotts-prosjekter - Inger Sandlie::ISA::
+Sandlie::Inger::152940::SLUTT::103815::IKKE I BRUK : Kommersialiseringsinntekter fra Tillotts-prosjekter - Inger Sandlie::SLUTT::
 Ciosk::Rafal::152940::000000::104052::annum - Rafal Ciosk::Ciosk::
 Boessenkool::Sanne::152950::000000::104053::annum - Sanne Boessenkool ::Boessenkool::
 Boessenkool::Sanne::152950::000000::150110::Startpakke Sanne Boessenkool::Boessenkool::
@@ -865,3 +869,4 @@ Langangen::Øystein::152950::000000::104047::annum - Øystein Langangen::Langang
 Progida::Cinzia::152930::461529::120000::Anders Jahres fond Understanding dendritic cell migration for::Progida::Unifor
 Jakobsen::Kjetill::152951::010079::913919::NSC Bioinformatikk - Krabberød::NSC Bioinf::
 Instituttleder::::152900::000000::914011::PC-kjøp NFR-prosjekter ::PC-NFR::
+Ravinet::Mark::152950::000000::104055::annum - Mark Ravinet::Ravinet::

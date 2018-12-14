@@ -12,6 +12,7 @@ table {
     width: 100%;
     border: 1px solid #ddd;
     margin-bottom: 0 !important;
+    margin-top: 0px;
 }
 
 .table-responsive {
@@ -63,4 +64,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 }
 #utskrift {
     float:right;
+    margin:0px!important;
+    background-color: #e7e7e7!important;
+    color: #000!important;
 }
