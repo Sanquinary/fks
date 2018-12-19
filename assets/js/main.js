@@ -3,7 +3,7 @@ $(document).ready(function(){
 	//starter AJAX
 	$.ajax({
 		//definerer hvilken data og hva den inneholder
-		url:"assets/txt/example.txt",
+		url:"assets/txt/kontostrenger_bio.txt",
 		contentType: "application/x-www-form-urlencoded;charset=utf-8",
 		dataType:"text",
 		success: function (data) {
