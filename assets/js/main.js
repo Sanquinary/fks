@@ -19,7 +19,7 @@ $(document).ready(function(){
 	     		table_data += '<tr>';
 
 	     		//generer en tabell for hver linje
-	     		for(var cell_count=0; cell_count<8; cell_count++) {
+	     		for(var cell_count=0; cell_count<6; cell_count++) {
 	       			table_data += '<td>'+cell_data[cell_count]+'</td>';
 	     		}
 
