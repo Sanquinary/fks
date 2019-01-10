@@ -19,14 +19,13 @@ Host site: https://www.uio.no/for-ansatte/enhetssider/mn/ibv/kontostrenger/
 <table class="table table-bordered table-striped" style="margin-top:20px; margin-bottom:0px !important;">
 	<tbody>
 		<tr>
-			<th title="Etternavn">Etternavn</th>
-			<th title="Fornavn">Fornavn</th>
-			<th title="Sted">Sted</th>
-			<th title="Prosjekt">Prosjekt</th>
-			<th title="Tiltak">Tiltak</th>
-			<th title="Prosjektnavn">Prosjektnavn</th>
-			<th title="Kode">Kode</th>
-			<th title="Finansieriengskode">Fin.kode</th>
+			<th style="width: 10%;" title="Etternavn">Etternavn</th>
+			<th style="width: 10%;" title="Fornavn">Fornavn</th>
+			<th style="width: 8%;" title="Sted">Sted</th>
+			<th style="width: 8%;" title="Prosjekt">Prosjekt</th>
+			<th style="width: 8%;" title="Tiltak">Tiltak</th>
+			<th style="width: 30%;" title="Prosjektnavn">Prosjektnavn</th>
+			<th style="width: 11%;" title="Kode">Kode</th>
 		</tr>
 	</tbody>
 </table>
