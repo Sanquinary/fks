@@ -10,14 +10,13 @@ $(document).ready(function(){
 
 		//definerer variabler som parser inneholdet i filen
     	var kontostreng_data = data.split(/\r?\n|\r/);
-    	var table_data = '<table class="table table-bordered table-striped">';
+    	var table_data = '<table class="table table-bordered table-striped" id="tabellok">';
 
     		//looper gjennom alle linjene i filen og splitter på hver semikolon // starter å telle fra rad 1 her.
 	    	for(var count = 1; count<kontostreng_data.length; count++) {
 	     		var cell_data = kontostreng_data[count].split("::");
 	     		
 	     		table_data += '<tr>';
-
 	     		//generer en tabell for hver linje
 	     		for(var cell_count=0; cell_count<7; cell_count++) {
 	       			table_data += '<td>'+cell_data[cell_count]+'</td>';
@@ -32,6 +31,25 @@ $(document).ready(function(){
     		
    		}	
   	});
+
+	if (document.documentMode || /Edge/.test(navigator.userAgent)) {
+		/*alert("Vi har oppdaget at du bruker en nettleser som ikke er anbefalt! Nettsiden fungerer kanskje som den ikke skal. Vennligst bruk en anbefalt nettleser som Google Chrome eller Firefox.");*/
+		$('#nettleser').css('display', 'block');
+	}
+
+  	/*function sortTable (table, order) {
+		var asc   = order === 'asc',
+		    tbody = table.find('tbody');
+
+		tbody.find('tr').sort(function(a, b) {
+		    if (asc) {
+		        return $('td(2)', a).text().localeCompare($('td(2)', b).text());
+		    } else {
+		        return $('td(2)', b).text().localeCompare($('td(2)', a).text());
+		    }
+		}).appendTo(tbody);
+	}
+	sortTable($('#tabellok'),'asc');*/
 
 	//automatisk søkefiltrering for hvert tastetrykk
   	$("#kontostreng_input").on("keyup", function() {
