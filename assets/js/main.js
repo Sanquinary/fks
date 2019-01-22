@@ -67,7 +67,7 @@ $(document).ready(function(){
 		}
 	});
 
-		$(function () {
+	$(function () {
 	    $('#utskrift').click(function () {
 	        var pageTitle = 'Kontostreng tabell',
 	            stylesheet = 'assets/css/bootstrap.min.css',
