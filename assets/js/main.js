@@ -59,8 +59,13 @@ $(document).ready(function(){
 		});
 
 		var rowCount = $('tr:visible:not(:has(th))').length;
-  		$('#row_count').html("<b>" + rowCount + "</b>");
-		});
+		$('#row_count').html("<b>" + rowCount + "</b>");
+		if (rowCount == 0) {
+  			$('#no_result').css('display', 'block');
+  		} else {
+  			$('#no_result').css('display', 'none');
+		}
+	});
 
 		$(function () {
 	    $('#utskrift').click(function () {
