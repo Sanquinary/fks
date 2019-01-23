@@ -62,8 +62,10 @@ $(document).ready(function(){
 		$('#row_count').html("<b>" + rowCount + "</b>");
 		if (rowCount == 0) {
   			$('#no_result').css('display', 'block');
+  			$('.table table-bordered table-striped').css('display', 'none');
   		} else {
   			$('#no_result').css('display', 'none');
+  			$('.table table-bordered table-striped').css('display', 'block');
 		}
 	});
 
