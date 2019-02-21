@@ -1,7 +1,7 @@
 body {
 	width: 100%;
-    overflow-y: hidden;
-    display:flex!important;
+    display:flex;
+    flex-direction:column;
 }
 
 #kontostreng_kopiert {
@@ -20,7 +20,7 @@ table {
 }
 
 .table-responsive {
-    max-height: 65vh !important;
+    max-height: 40vh !important;
     overflow-y: scroll !important;
 }
 
