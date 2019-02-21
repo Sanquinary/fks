@@ -16,7 +16,7 @@ $(document).ready(function(){
 	    	for(var count = 1; count<kontostreng_data.length; count++) {
 	     		var cell_data = kontostreng_data[count].split("::");
 	     		
-	     		table_data += '<tr>';
+	     		table_data += '<tr class="copy-to-clipboard" onclick="copyToClipboard($(this));">';
 	     		//generer en tabell for hver linje
 	     		for(var cell_count=0; cell_count<7; cell_count++) {
 	       			table_data += '<td>'+cell_data[cell_count]+'</td>';
@@ -69,7 +69,7 @@ $(document).ready(function(){
 		}
 	});
 
-	$(function () {
+	/*$(function () {
 	    $('#utskrift').click(function () {
 	        var pageTitle = 'Kontostreng tabell',
 	            stylesheet = 'assets/css/bootstrap.min.css',
@@ -84,5 +84,5 @@ $(document).ready(function(){
 	        win.close();
 	        return false;
 		});
-	});
+	});*/
 });
