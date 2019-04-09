@@ -57,12 +57,12 @@ Host site: https://www.uio.no/for-ansatte/enhetssider/mn/kontostrenger/
 ```
 <!-- developed by Matias Kristiansen, with a little help from Merlijn "Zemanzo" van der Kamp. -->
 <link href="../assets/css/style.css" rel="stylesheet" />
-<h3 id="overskrift">Institute:</h3>
+<h3 id="overskrift">Department:</h3>
 
 <div class="information">
     <div class="alert alert-danger" id="nettleser" style="display:none;"><strong>We've detected you are using an unsupported browser! The website may not work properly. Please use one of the recommended browsers e.g Google Chrome or Firefox.</strong></div>
 
-    <div class="alert alert-warning" id="driftsmelding"><strong>We've detected you are using an unsupported browser! The website may not work properly. Please use one of the recommended browsers e.g Google Chrome or Firefox.</div>
+    <div class="alert alert-warning" id="driftsmelding"><strong>Operating message: </strong>FKS is updated to <b>v2.0.0</b> and is now covering facultylevel! Contact <a href="mailto:drift@ibv.uio.no">drift@ibv.uio.no</a> for errors or feedback.</div>
 
     <div class="alert alert-info">
         <p><b>Update: </b>Click on a table row to copy its account string. Super quick and super easy!</p>
