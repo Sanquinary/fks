@@ -121,8 +121,8 @@ tr.selected {
     width: 100%;
     height: 50px !important;
 }
-.oppforinger_dynamisk {
-    display:inline;
+#oppforinger_dynamisk {
+    display:none;
 }
 #utskrift {
     float:right;

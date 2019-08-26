@@ -7,22 +7,22 @@ Host site: https://www.uio.no/for-ansatte/enhetssider/mn/kontostrenger/
 ```html
 <!-- utviklet av Matias Kristiansen, med litt hjelp fra Merlijn "Zemanzo" van der Kamp. -->
 <link href="../assets/css/style.css" rel="stylesheet" />
-<h3 id="overskrift">Institutt:</h3>
+<h3 id="overskrift">Institutt: </h3>
 
 <div class="information">
     <div class="alert alert-danger" id="nettleser" style="display:none;"><strong>Vi har oppdaget at du bruker en nettleser som ikke er anbefalt! Nettsiden fungerer kanskje ikke som den skal. Vennligst bruk en anbefalt nettleser som Google Chrome eller Firefox.</strong></div>
 
-    <div class="alert alert-warning" id="driftsmelding"><strong>Driftsmelding: </strong>FKS er oppdatert til <b>v2.0.0</b> og dekker nå fakultetsnivå! Kontakt <a href="mailto:drift@ibv.uio.no">drift@ibv.uio.no</a> ved feil eller tilbakemelding.</div>
+    <div class="alert alert-warning" id="driftsmelding"><strong>Driftsmelding: </strong>FKS er oppdatert til <b>v2.1.0</b>! Kontakt <a href="mailto:drift@ibv.uio.no">drift@ibv.uio.no</a> ved feil eller tilbakemelding.</div>
 
     <div class="alert alert-info">
         <p><b>Oppdatering: </b>Klikk på en rad i tabellen for å kopiere radens kontostreng. Superkjapt og superenkelt!</p>
         <hr />
         <div class="alert alert-success" id="kontostreng_kopiert" style="display:none;">Du har kopiert kontostreng: <b id="row_copy">...</b></div>
-        <div id="oppforinger_totalt">Totalt antall oppføringer:</div>
+        <div id="oppforinger_totalt">Totalt antall oppføringer: </div>
         <div id="oppforinger_dynamisk">Totalt antall oppføringer etter søk: <b id="row_count">...</b></div>
     </div>
 
-    <div id="kontostreng_sok"><input class="form-control" id="kontostreng_input" name="kontostreng_input" placeholder="Skriv inn relevant informasjon..." type="input" /></div>
+    <div id="kontostreng_sok"><input class="form-control" id="kontostreng_input" name="kontostreng_input" placeholder="Søk i tabellen her..." type="input" /></div>
     <!-- kontostreng søk -->
 
     <div class="tabell" id="tabell" style="width:100%;">
@@ -57,12 +57,12 @@ Host site: https://www.uio.no/for-ansatte/enhetssider/mn/kontostrenger/
 ```
 <!-- developed by Matias Kristiansen, with a little help from Merlijn "Zemanzo" van der Kamp. -->
 <link href="../assets/css/style.css" rel="stylesheet" />
-<h3 id="overskrift">Department:</h3>
+<h3 id="overskrift">Department: </h3>
 
 <div class="information">
     <div class="alert alert-danger" id="nettleser" style="display:none;"><strong>We've detected you are using an unsupported browser! The website may not work properly. Please use one of the recommended browsers e.g Google Chrome or Firefox.</strong></div>
 
-    <div class="alert alert-warning" id="driftsmelding"><strong>Operating message: </strong>FKS is updated to <b>v2.0.0</b> and is now covering facultylevel! Contact <a href="mailto:drift@ibv.uio.no">drift@ibv.uio.no</a> for errors or feedback.</div>
+    <div class="alert alert-warning" id="driftsmelding"><strong>Operating message: </strong>FKS is updated to <b>v2.1.0</b>! Contact <a href="mailto:drift@ibv.uio.no">drift@ibv.uio.no</a> for errors or feedback.</div>
 
     <div class="alert alert-info">
         <p><b>Update: </b>Click on a table row to copy its account string. Super quick and super easy!</p>
@@ -72,7 +72,7 @@ Host site: https://www.uio.no/for-ansatte/enhetssider/mn/kontostrenger/
         <div id="oppforinger_dynamisk">Total number of entries after input: <b id="row_count">...</b></div>
     </div>
 
-    <div id="kontostreng_sok"><input class="form-control" id="kontostreng_input" name="kontostreng_input" placeholder="Type in relevant information..." type="input" /></div>
+    <div id="kontostreng_sok"><input class="form-control" id="kontostreng_input" name="kontostreng_input" placeholder="Search in the table here..." type="input" /></div>
     <!-- kontostreng søk -->
 
     <div class="tabell" id="tabell" style="width:100%;">

@@ -5,7 +5,7 @@ function copyToClipboard(element) {
   $("body").append($temp);
   $(element).addClass("selected").siblings().removeClass("selected");
   $temp.val($(element).find("td:eq(1), td:eq(2), td:eq(3)").text().replace(/(\d)(?=(\d{6})+(?!\d))/g, '$1-')).select();
-  $('#kontostreng_kopiert').fadeIn(500).delay(3500).fadeOut(500);
+  $('#kontostreng_kopiert').fadeIn(500);
   $("#row_copy").html($temp.val());
   document.execCommand("copy");
   $temp.remove();
