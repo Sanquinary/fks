@@ -33,7 +33,7 @@ th, td {
 
 tr:nth-child(even) {background-color: #f2f2f2;}
 
-tr:hover {
+#tabellok tr:hover {
     cursor: pointer;
     background-color: #C8C8C8!important;
 }
