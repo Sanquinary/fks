@@ -9,7 +9,6 @@ body {
     position: relative;
 }
 
-/*tabell*/
 table {
     border-collapse: collapse;
     border-spacing: 0;
@@ -32,9 +31,12 @@ th, td {
     white-space: pre-wrap;
 }
 
-
-
 tr:nth-child(even) {background-color: #f2f2f2;}
+
+tr:hover {
+    cursor: pointer;
+    background-color: #C8C8C8!important;
+}
 
 td:nth-child(1) {
     width: 15%;
@@ -55,7 +57,7 @@ td:nth-child(6) {
     width: 10%; /* 1% less than th */
 }
 
-tr.selected {
+.selected {
     font-weight: bold;
     color: white;
     -moz-transition:all 0.5s ease-in-out;
@@ -96,7 +98,6 @@ tr.selected {
 	max-height: 75vh;
 }
 
-/*scrollbar*/
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -112,8 +113,6 @@ tr.selected {
 ::-webkit-scrollbar-thumb:hover {
     background: #555; 
 }
-
-/*innhold*/
 
 .information {
     display: inline-block;

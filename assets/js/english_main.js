@@ -6,7 +6,7 @@ $(document).ready(function(){
     function PromiseAjax(url){
         return new Promise((resolve, reject) => {
             $.ajax({
-                url: url, // you can also simplify this line to "url," since ES6
+                url: url,
                 contentType: "application/x-www-form-urlencoded;charset=utf-8",
                 dataType:"text",
                 success: function(data) {
@@ -20,37 +20,30 @@ $(document).ready(function(){
         })
     }
 
-
     Promise.all([
         PromiseAjax("../../../../../../../../for-ansatte/enhetssider/mn/kontostrenger/assets/txt/kontostrenger-" + path_rmSlash + ".txt"),
         PromiseAjax("../../../../../../../../for-ansatte/enhetssider/mn/kontostrenger/assets/txt/kontostrenger-" + path_rmSlash + "2.txt")
     ])
 
     .then((values) => {
-        //definerer variabler som parser inneholdet i filen
         let data = values[0] + values[1];
         var kontostreng_data = data.split(/\r?\n|\r/);
         var table_data = '<table class="table table-bordered table-striped" id="tabellok">';
 
-        //looper gjennom alle linjene i filen og splitter på hver semikolon // starter å telle fra rad 1 her.
         for(var count = 1; count<kontostreng_data.length; count++) {
             var cell_data = kontostreng_data[count].split("::");
 
             if (kontostreng_data[count].length === 0) {
                 continue;
             }
-
-            table_data += '<tr class="copy-to-clipboard" onclick="copyToClipboard($(this));">';
+            table_data += '<tr class="copy-to-clipboard" onclick="copyToClipboard($(this));" title="Click to copy account-string.">';
             
-            //generer en tabell for hver linje
             for(var cell_count=0; cell_count<6; cell_count++) {
                 table_data += '<td>'+cell_data[cell_count]+'</td>';
             }
-
             table_data += '</tr>';
         }
         table_data += '</table>';
-        //definerer hva som skal hvor i HTML siden
         $('#kontostreng_table').html(table_data);
         $('#oppforinger_totalt').append("<b>" + count + "</b>");
     });
@@ -60,7 +53,6 @@ $(document).ready(function(){
     }
 
     $("#overskrift").append(path_rmSlash.toUpperCase());
-    //automatisk søkefiltrering for hvert tastetrykk
     $("#kontostreng_input").on("keyup", function() {
         var value = $(this).val().toLowerCase();
         $("#kontostreng_table tr:not(:has(th))").filter(function() {
