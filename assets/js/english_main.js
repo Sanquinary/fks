@@ -6,7 +6,7 @@ $(document).ready(function(){
     function PromiseAjax(url){
         return new Promise((resolve, reject) => {
             $.ajax({
-                url: url,
+                url,
                 contentType: "application/x-www-form-urlencoded;charset=utf-8",
                 dataType:"text",
                 success: function(data) {
