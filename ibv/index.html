@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+	<title id="tittel">Finn kontostrenger</title>
+
+  	<!-- Content type & charset -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!-- Viewport scaling -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+
+    <!-- Search engine results -->
+    <meta name="description" content="A site originally made for UiO IBV allowing employees to lookup account strings.">
+    <meta name="author" content="Sanguinary">
+    <meta name="keywords" content="kontostrenger, UiO, finn, kontostreng">
+
+	<!-- CSS -->
+	<link href="../assets/css/style.css" rel="stylesheet">
+	<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+
+</head>
+<body>
+    <div class="container">
+		<h1 id="overskrift" align="center">Institutt: </h1>
+        <div class="information">
+            <div class="alert alert-danger" id="nettleser" style="display:none;"><strong>Vi har oppdaget at du bruker en nettleser som ikke er anbefalt! Nettsiden fungerer kanskje ikke som den skal. Vennligst bruk en anbefalt nettleser som Google Chrome eller Firefox.</strong></div>
+            <div class="alert alert-warning" id="driftsmelding"><strong>Driftsmelding: </strong>FKS er oppdatert til <b>v2.1.0</b>! Kontakt <a href="mailto:drift@ibv.uio.no">drift@ibv.uio.no</a> ved feil eller tilbakemelding.</div>
+            <div class="alert alert-info">
+                <p><b>Oppdatering: </b>Klikk på en rad i tabellen for å kopiere radens kontostreng. Superkjapt og superenkelt!</p>
+                <hr>
+                <div class="alert alert-success" id="kontostreng_kopiert" style="display:none;">Du har kopiert kontostreng: <b id="row_copy">...</b></div>
+                <div id="oppforinger_totalt">Totalt antall oppføringer: </div>
+                <div id="oppforinger_dynamisk">Totalt antall oppføringer etter søk: <b id="row_count">...</b></div>
+            </div>
+            <div id="kontostreng_sok"><input type="input" name="kontostreng_input" id="kontostreng_input" class="form-control" placeholder="Søk i tabellen her..."></div>
+        </div>
+        <div class="tabell" id="tabell" style="width:100%;">
+            <table class="table table-bordered table-striped" style="margin-top:20px; margin-bottom:0px !important;">
+                <thead>
+                    <th title="Navn" style="width: 15%;">Navn</th>
+                    <th title="Sted" style="width: 8%;">Sted</th>
+                    <th title="Prosjekt" style="width: 8%;">Prosjekt</th>
+                    <th title="Tiltak" style="width: 8%;">Tiltak</th>
+                    <th title="Kontonavn" style="width: 30%;">Kontonavn</th>
+                    <th title="Kommentar" style="width: 11%;">Kommentar</th>
+                </thead>
+            </table>
+            <div class="alert alert-danger" id="no_result" style="display:none; margin:0;"><center>Ingen resultat! Har du skrevet feil?</center></div>
+            <div class="table-responsive">
+                <div id="kontostreng_table"></div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="../assets/js/main.js"></script>
+<script src="../assets/js/copytoclip.js"></script>
+</html>
+
+

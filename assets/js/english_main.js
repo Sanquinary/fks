@@ -1,8 +1,8 @@
 $(document).ready(function(){
     //for UiO
-    /*path = window.location.pathname.substring("/for-ansatte/enhetssider/mn/kontostrenger/".length, window.location.pathname.lastIndexOf("/"));*/
-    path = window.location.pathname;
-    path_rmSlash = path.replace(/\//g,''); 
+    /*path = window.location.pathname.substring("/english/for-employees/unitpages/mn/account-strings/".length, window.location.pathname.lastIndexOf("/"));*/
+    path = window.location.pathname.substring("/english/for-employees/unitpages/mn/account-strings/".length, window.location.pathname.lastIndexOf("/"));
+    path_rmSlash = path.replace(/\//g,'');
     function PromiseAjax(url){
         return new Promise((resolve, reject) => {
             $.ajax({
@@ -21,8 +21,8 @@ $(document).ready(function(){
     }
 
     Promise.all([
-        PromiseAjax("../assets/txt/kontostrenger-" + path_rmSlash + ".txt"),
-        PromiseAjax("../assets/txt/kontostrenger-" + path_rmSlash + "2.txt")
+        PromiseAjax("../../../../../../../../for-ansatte/enhetssider/mn/kontostrenger/assets/txt/kontostrenger-" + path_rmSlash + ".txt"),
+        PromiseAjax("../../../../../../../../for-ansatte/enhetssider/mn/kontostrenger/assets/txt/kontostrenger-" + path_rmSlash + "2.txt")
     ])
 
     .then((values) => {
@@ -36,8 +36,8 @@ $(document).ready(function(){
             if (kontostreng_data[count].length === 0) {
                 continue;
             }
-            table_data += '<tr class="copy-to-clipboard" onclick="copyToClipboard($(this));" title="Klikk for å kopiere kontostreng.">';
-
+            table_data += '<tr class="copy-to-clipboard" onclick="copyToClipboard($(this));" title="Click to copy account-string.">';
+            
             for(var cell_count=0; cell_count<6; cell_count++) {
                 table_data += '<td>'+cell_data[cell_count]+'</td>';
             }
